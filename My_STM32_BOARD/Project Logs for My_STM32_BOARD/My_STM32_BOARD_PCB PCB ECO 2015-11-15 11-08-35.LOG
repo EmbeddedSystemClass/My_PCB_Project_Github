@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AGND Pin=DC1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=DC1-3
+Added Pin To Net: NetName=NetC1_1 Pin=DC1-1
+Added Pin To Net: NetName=AGND Pin=DC1-3
+Added Room: Name=My_STM32_BOARD_SCH

@@ -1,0 +1,17 @@
+Added Component: Designator=C1(Cap_Pol_F5)
+Added Component: Designator=C2(Cap_Pol_F5)
+Added Component: Designator=DC1(DC_5V)
+Added Component: Designator=U1(78XX)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=3_3V Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=AGND Pin=DC1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DC1-3
+Added Pin To Net: NetName=AGND Pin=U1-1
+Added Pin To Net: NetName=3_3V Pin=U1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C1 Cap_Pol
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C2 Cap_Pol
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component DC1 DC5.0V
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component U1 LM317

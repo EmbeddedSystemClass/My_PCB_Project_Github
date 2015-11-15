@@ -1,0 +1,3 @@
+Added Component: Designator=COM1(DB9)
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component COM1 Com_DB9
+Added Room: Name=My_STM32_BOARD_SCH

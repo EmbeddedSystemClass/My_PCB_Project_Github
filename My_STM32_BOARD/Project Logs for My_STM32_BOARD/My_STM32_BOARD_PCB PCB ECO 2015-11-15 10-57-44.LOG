@@ -1,0 +1,9 @@
+Added Component: Designator=D1(DIODE_DO-214AC)
+Added Component: Designator=USB1(USB_MINI-B)
+Added Net: Name=3_3V
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Net: Name=AGND
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Net: Name=NetC1_1
+Added Class: Name=My_STM32_BOARD_SCH
+Added Room: Name=My_STM32_BOARD_SCH
