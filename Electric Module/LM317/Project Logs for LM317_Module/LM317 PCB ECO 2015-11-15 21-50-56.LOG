@@ -1,0 +1,34 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAPACITOR POL New DesignItemId=Cap_Pol
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAPACITOR POL New DesignItemId=Cap_Pol
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CAPACITOR POL New DesignItemId=Cap_Pol
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CAPACITOR POL New DesignItemId=Cap_Pol
+Change Component DesignItemId : Designator=U1 Old DesignItemId=LM317 New DesignItemId=LM
+Change Component DesignItemId : Designator=U2 Old DesignItemId=LM317 New DesignItemId=LM
+Change Component Footprint: Designator=C2 Old Footprint=Cap_Pol_F6 New Footprint=Cap_Pol_F5
+Change Component Footprint: Designator=C4 Old Footprint=Cap_Pol_F6 New Footprint=Cap_Pol_F5
+Change Component Comment : Designator=C1 Old Comment=CAPACITOR POL New Comment=Cap_Pol
+Change Component Comment : Designator=C2 Old Comment=CAPACITOR POL New Comment=Cap_Pol
+Change Component Comment : Designator=C3 Old Comment=CAPACITOR POL New Comment=Cap_Pol
+Change Component Comment : Designator=C4 Old Comment=CAPACITOR POL New Comment=Cap_Pol
+Change Component Description : Designator=C3 Old Description=10uF New Description=Capacitor
+Added Component: Designator=D1(DIODE_DO-214AC)
+Added Component: Designator=D2(DIODE_DO-214AC)
+Added Component: Designator=D3(DIODE_DO-214AC)
+Added Component: Designator=D4(DIODE_DO-214AC)
+Added Pin To Net: NetName=NetC2_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2
+Added Pin To Net: NetName=NetC4_1 Pin=D3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D4-2
+Added Member To Class: ClassName=LM317 Member=Component D1 Diode_SMA
+Added Member To Class: ClassName=LM317 Member=Component D2 Diode_SMA
+Added Member To Class: ClassName=LM317 Member=Component D3 Diode_SMA
+Added Member To Class: ClassName=LM317 Member=Component D4 Diode_SMA
+Added Member To Class: ClassName=LM317 Member=Component R1 Res Semi
+Added Member To Class: ClassName=LM317 Member=Component R2 RPot
+Added Member To Class: ClassName=LM317 Member=Component U1 LM317
+Added Member To Class: ClassName=LM317 Member=Component U2 LM317
+Added Room: Name=LM317
