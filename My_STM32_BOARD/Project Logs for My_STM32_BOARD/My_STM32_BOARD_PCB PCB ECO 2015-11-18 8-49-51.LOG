@@ -1,0 +1,6 @@
+Change Component Description : Designator=U1 Old Description=LM317 电源? New Description=LM317 电源芯片
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=DC1-1
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Room: Name=My_STM32_BOARD_SCH

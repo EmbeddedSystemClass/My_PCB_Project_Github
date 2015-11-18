@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Description : Designator=U1 Old Description=LM317 电源? New Description=LM317 电源芯片
+Added Component: Designator=D3(LED_0805_RED)
+Added Component: Designator=D4(LED_1206_BLUE)
+Added Component: Designator=D5(LED_1206_BLUE)
+Added Component: Designator=D6(LED_1206_BLUE)
+Added Component: Designator=D7(LED_1206_BLUE)
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=LED1 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=LED2 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=LED3 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=LED4 Pin=D7-2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC8_1
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component D3 LED_0805
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component D4 LED_0805
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component D5 LED_0805
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component D6 LED_0805
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component D7 LED_0805
+Added Room: Name=My_STM32_BOARD_SCH

@@ -1,0 +1,190 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-2
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=COM1
+Change Component DesignItemId : Designator=U1 Old DesignItemId=Power_LM317 New DesignItemId=Power_LM
+Change Component Description : Designator=U1 Old Description=LM317 电源? New Description=LM317 电源芯片
+Added Component: Designator=C3(0402)
+Added Component: Designator=C4(0402)
+Added Component: Designator=C5(0402)
+Added Component: Designator=C6(0402)
+Added Component: Designator=C6(0402)
+Added Component: Designator=C7(2029)
+Added Component: Designator=C8(0402)
+Added Component: Designator=D2(DIODE_DO-214AC)
+Added Component: Designator=My_LCD(ILI9325)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Component: Designator=R4(6-0805_N)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R6(6-0805_N)
+Added Component: Designator=R7(6-0805_N)
+Added Component: Designator=R8(6-0805_N)
+Added Component: Designator=R9(6-0805_N)
+Added Component: Designator=R10(6-0805_N)
+Added Component: Designator=R11(6-0805_N)
+Added Component: Designator=R12(6-0805_N)
+Added Component: Designator=R13(6-0805_N)
+Added Component: Designator=R14(6-0805_N)
+Added Component: Designator=R15(6-0805_N)
+Added Component: Designator=R16(6-0805_N)
+Added Component: Designator=S1(My_Button)
+Added Component: Designator=S2(My_Button)
+Added Component: Designator=S3(My_Button)
+Added Component: Designator=S4(My_Button)
+Added Component: Designator=U2(SSOP-28)
+Added Component: Designator=Y1(XT_XTAL)
+Added Pin To Net: NetName=3_3V Pin=D1-2
+Added Pin To Net: NetName=3_3V Pin=D2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-26
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=KEY1 Pin=S1-2
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=S2-2
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=S3-2
+Added Net: Name=KEY3
+Added Net: Name=LED1
+Added Net: Name=LED2
+Added Net: Name=LED3
+Added Net: Name=LED4
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U2-28
+Added Pin To Net: NetName=NetC3_1 Pin=Y1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U2-27
+Added Pin To Net: NetName=NetC4_1 Pin=Y1-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U2-24
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-17
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U2-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetD3_1 Pin=R8-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=R9-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=R10-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=R11-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=R12-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-23
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-22
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-16
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=USB1-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-15
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Pin To Net: NetName=NetR4_2 Pin=USB1-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-13
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U2-14
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=S1-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=S2-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=S3-1
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=S4-1
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=RESET Pin=S4-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=UART1_RX Pin=U2-5
+Added Net: Name=UART1_RX
+Added Pin To Net: NetName=UART1_TX Pin=U2-1
+Added Net: Name=UART1_TX
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=R9-1
+Added Pin To Net: NetName=VCC Pin=R10-1
+Added Pin To Net: NetName=VCC Pin=R11-1
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=VCC Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R16-1
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=VCC Pin=U2-19
+Added Pin To Net: NetName=VCC Pin=U2-20
+Added Pin To Net: NetName=VCC Pin=USB1-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C3 Cap
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C4 Cap
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C5 Cap
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C6 Cap
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C7 Cap
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component C8 Cap
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component D2 
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component My_LCD LCD_ILI9325
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R1 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R2 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R3 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R4 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R5 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R6 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R7 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R8 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R9 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R10 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R11 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R12 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R13 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R14 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R15 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component R16 Res3
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component S1 Button
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component S2 Button
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component S3 Button
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component S4 Button
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component U2 Com_PL2303
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component Y1 XTAL
+Added Room: Name=My_STM32_BOARD_SCH
