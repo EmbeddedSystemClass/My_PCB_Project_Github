@@ -1,0 +1,3 @@
+Added Component: Designator=My_LCD(ILI9325)
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component My_LCD LCD_ILI9325
+Added Room: Name=My_STM32_BOARD_SCH

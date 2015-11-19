@@ -1,0 +1,11 @@
+Added Component: Designator=J3(HDR1X10_2.54_180)
+Added Component: Designator=J4(HDR1X8_2.54_180)
+Added Component: Designator=J5(HDR1X8_2.54_180)
+Added Component: Designator=J6(HDR1X8_2.54_180)
+Added Component: Designator=J7(HDR1X8_2.54_180)
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component J3 HDR1X10_2.54
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component J4 HDR1X8_2.54
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component J5 HDR1X8_2.54
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component J6 HDR1X8_2.54
+Added Member To Class: ClassName=My_STM32_BOARD_SCH Member=Component J7 HDR1X8_2.54
+Added Room: Name=My_STM32_BOARD_SCH
