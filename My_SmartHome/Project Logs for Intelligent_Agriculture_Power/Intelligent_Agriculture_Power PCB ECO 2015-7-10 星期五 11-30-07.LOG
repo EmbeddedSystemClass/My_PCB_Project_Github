@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=F0 Old Footprint=FUSE 5*20 New Footprint=FUSE T1A250V
+Change Component Comment : Designator=Q1 Old Comment=S8050 New Comment=SS8050(1.5A)
+Change Component Comment : Designator=Q2 Old Comment=S8050 New Comment=SS8050(1.5A)
+Change Component Comment : Designator=SDR1 Old Comment=SRD-05VDC New Comment=SRD-12VDC
+Change Component Comment : Designator=SDR2 Old Comment=SRD-05VDC New Comment=SRD-12VDC
+Change Component Comment : Designator=SDR3 Old Comment=SRD-05VDC New Comment=SRD-12VDC
+Change Component Comment : Designator=SDR4 Old Comment=SRD-05VDC New Comment=SRD-12VDC
+Change Component Description : Designator=SDR1 Old Description= New Description=电磁继电器
+Change Component Description : Designator=SDR2 Old Description= New Description=电磁继电器
+Change Component Description : Designator=SDR3 Old Description= New Description=电磁继电器
+Change Component Description : Designator=SDR4 Old Description= New Description=电磁继电器
+Change Component Description : Designator=Q1 Old Description=NPN三极管 New Description=NPN三极管(1.5A)
+Change Component Description : Designator=Q2 Old Description=NPN三极管 New Description=NPN三极管(1.5A)
+Change Component Description : Designator=C1 Old Description=Polarized Capacitor (Radial) New Description=电解电容

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=DG1-2
+Removed Pin From Net: NetName=GND Pin=DG2-2
+Removed Pin From Net: NetName=N220V Pin=DG3-2
+Removed Pin From Net: NetName=N220V Pin=DG4-2
+Added Pin To Net: NetName=GND Pin=DG1-1
+Added Pin To Net: NetName=GND Pin=DG2-1
+Added Pin To Net: NetName=N220V Pin=DG3-1
+Added Pin To Net: NetName=N220V Pin=DG4-1
+Added Pin To Net: NetName=NetDG1_2 Pin=DG1-2
+Added Pin To Net: NetName=NetDG1_2 Pin=SDR1-5
+Added Net: Name=NetDG1_2
+Added Pin To Net: NetName=NetDG3_2 Pin=DG3-2
+Added Pin To Net: NetName=NetDG3_2 Pin=SDR3-5
+Added Net: Name=NetDG3_2
+Added Pin To Net: NetName=NetDG4_2 Pin=DG4-2
+Added Pin To Net: NetName=NetDG4_2 Pin=SDR4-5
+Added Net: Name=NetDG4_2

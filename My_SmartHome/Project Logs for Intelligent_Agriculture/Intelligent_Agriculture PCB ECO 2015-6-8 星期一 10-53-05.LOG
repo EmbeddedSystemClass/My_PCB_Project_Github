@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=VCC12V Pin=D1-2
+Removed Pin From Net: NetName=VCC12V Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=DG1-2
+Removed Pin From Net: NetName=GND Pin=DG2-2
+Removed Pin From Net: NetName=GND Pin=J0-2
+Removed Pin From Net: NetName=GND Pin=J0-3
+Removed Pin From Net: NetName=KEY_O1 Pin=P7-1
+Removed Pin From Net: NetName=KEY_O2 Pin=P7-2
+Removed Pin From Net: NetName=KEY_O3 Pin=P7-3
+Removed Pin From Net: NetName=KEY_I1 Pin=P7-4
+Removed Pin From Net: NetName=KEY_I2 Pin=P7-5
+Removed Pin From Net: NetName=KEY_I3 Pin=P7-6
+Removed Pin From Net: NetName=VCC12V Pin=P8-1
+Removed Pin From Net: NetName=VCC12V Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=RELAY1 Pin=R8-2
+Removed Pin From Net: NetName=RELAY1 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=RELAY2 Pin=R11-2
+Removed Pin From Net: NetName=RELAY2 Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=RELAY3 Pin=R14-2
+Removed Pin From Net: NetName=RELAY3 Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R15-2
+Removed Pin From Net: NetName=RELAY4 Pin=R17-2
+Removed Pin From Net: NetName=RELAY4 Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=VCC12V Pin=SDR1-1
+Removed Pin From Net: NetName=VCC12V Pin=SDR1-3
+Removed Pin From Net: NetName=VCC12V Pin=SDR2-1
+Removed Pin From Net: NetName=VCC12V Pin=SDR2-3
+Removed Pin From Net: NetName=VCC12V Pin=SW1-3
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=D1
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=D2
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=D3
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=D4
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=DG1
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=DG2
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=DG3
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=DG4
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=J0
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=P8
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=P9
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=P10
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=P11
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=Q1
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=Q2
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=Q3
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=Q4
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R8
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R9
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R11
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R12
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R14
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R15
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R17
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=R18
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=SDR1
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=SDR2
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=SDR3
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=SDR4
+Removed Member From Class: ClassName=Intelligent_Agriculture Member=SW1
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Header 6 New DesignItemId=Header 4
+Change Component Footprint: Designator=P3 Old Footprint=HDR2X1_A New Footprint=HDR2X1_B1
+Change Component Footprint: Designator=P4 Old Footprint=HDR2X1_A New Footprint=HDR2X1_B1
+Change Component Footprint: Designator=P5 Old Footprint=HDR2X1_A New Footprint=HDR2X1_B1
+Change Component Footprint: Designator=U5 Old Footprint=HDR3X1_A New Footprint=HDR3X1_B1
+Change Component Footprint: Designator=P7 Old Footprint=HDR6X1_A New Footprint=HDR4X1_B1
+Change Component Comment : Designator=P7 Old Comment=Header 6 New Comment=Header 4
+Added Component: Designator=P0(HDR2X1_B1)
+Added Component: Designator=S2(SW_PB4_B1)
+Added Component: Designator=S3(SW_PB4_B1)
+Added Component: Designator=S4(SW_PB4_B1)
+Added Component: Designator=S5(SW_PB4_B1)
+Added Component: Designator=S6(SW_PB4_B1)
+Added Component: Designator=S7(SW_PB4_B1)
+Added Component: Designator=S8(SW_PB4_B1)
+Added Component: Designator=S9(SW_PB4_B1)
+Added Component: Designator=S10(SW_PB4_B1)
+Added Pin To Net: NetName=GND Pin=P0-1
+Added Pin To Net: NetName=VCC12V Pin=P0-2
+Added Pin To Net: NetName=RELAY1 Pin=P7-1
+Added Pin To Net: NetName=RELAY2 Pin=P7-2
+Added Pin To Net: NetName=RELAY3 Pin=P7-3
+Added Pin To Net: NetName=RELAY4 Pin=P7-4
+Added Pin To Net: NetName=KEY_I1 Pin=S2-1
+Added Pin To Net: NetName=KEY_O1 Pin=S2-2
+Added Pin To Net: NetName=KEY_O1 Pin=S2-3
+Added Pin To Net: NetName=KEY_I1 Pin=S2-4
+Added Pin To Net: NetName=KEY_I1 Pin=S3-1
+Added Pin To Net: NetName=KEY_O2 Pin=S3-2
+Added Pin To Net: NetName=KEY_O2 Pin=S3-3
+Added Pin To Net: NetName=KEY_I1 Pin=S3-4
+Added Pin To Net: NetName=KEY_I1 Pin=S4-1
+Added Pin To Net: NetName=KEY_O3 Pin=S4-2
+Added Pin To Net: NetName=KEY_O3 Pin=S4-3
+Added Pin To Net: NetName=KEY_I1 Pin=S4-4
+Added Pin To Net: NetName=KEY_I2 Pin=S5-1
+Added Pin To Net: NetName=KEY_O1 Pin=S5-2
+Added Pin To Net: NetName=KEY_O1 Pin=S5-3
+Added Pin To Net: NetName=KEY_I2 Pin=S5-4
+Added Pin To Net: NetName=KEY_I2 Pin=S6-1
+Added Pin To Net: NetName=KEY_O2 Pin=S6-2
+Added Pin To Net: NetName=KEY_O2 Pin=S6-3
+Added Pin To Net: NetName=KEY_I2 Pin=S6-4
+Added Pin To Net: NetName=KEY_I2 Pin=S7-1
+Added Pin To Net: NetName=KEY_O3 Pin=S7-2
+Added Pin To Net: NetName=KEY_O3 Pin=S7-3
+Added Pin To Net: NetName=KEY_I2 Pin=S7-4
+Added Pin To Net: NetName=KEY_I3 Pin=S8-1
+Added Pin To Net: NetName=KEY_O1 Pin=S8-2
+Added Pin To Net: NetName=KEY_O1 Pin=S8-3
+Added Pin To Net: NetName=KEY_I3 Pin=S8-4
+Added Pin To Net: NetName=KEY_I3 Pin=S9-1
+Added Pin To Net: NetName=KEY_O2 Pin=S9-2
+Added Pin To Net: NetName=KEY_O2 Pin=S9-3
+Added Pin To Net: NetName=KEY_I3 Pin=S9-4
+Added Pin To Net: NetName=KEY_I3 Pin=S10-1
+Added Pin To Net: NetName=KEY_O3 Pin=S10-2
+Added Pin To Net: NetName=KEY_O3 Pin=S10-3
+Added Pin To Net: NetName=KEY_I3 Pin=S10-4
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component P0 Header 2
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S2 SW-LEFT
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S3 SW-UP
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S4 SW-RIGHT
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S5 SW-WAIT
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S6 SW-OK
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S7 SW-DOWN
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S8 SW-SET
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S9 SW-ESC
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component S10 SW-SMART
+Added Room: Name=Intelligent_Agriculture

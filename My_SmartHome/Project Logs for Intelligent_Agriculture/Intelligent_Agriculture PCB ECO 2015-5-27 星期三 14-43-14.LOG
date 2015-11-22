@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C2 Old Footprint=RB7.6-15 New Footprint=C-RB-2.54
+Change Component Footprint: Designator=U5 Old Footprint=TO-92A New Footprint=HDR3X1_A
+Added Room: Name=Intelligent_Agriculture

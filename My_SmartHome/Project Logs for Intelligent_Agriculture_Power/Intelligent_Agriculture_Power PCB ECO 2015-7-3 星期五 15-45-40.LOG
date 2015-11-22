@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=DG1-1
+Removed Pin From Net: NetName=GND Pin=DG2-1
+Removed Pin From Net: NetName=VCC12V Pin=SDR1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=SDR1-2
+Removed Pin From Net: NetName=VCC12V Pin=SDR1-3
+Removed Pin From Net: NetName=VCC12V Pin=SDR2-1
+Removed Pin From Net: NetName=NetD2_1 Pin=SDR2-2
+Removed Pin From Net: NetName=VCC12V Pin=SDR2-3
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=SDR1
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=SDR2
+Change Component Footprint: Designator=F0 Old Footprint=FUSE 5*20 New Footprint=FUSE T1A250V
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23 New Footprint=TO-92A
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23 New Footprint=TO-92A
+Change Component Comment : Designator=Q1 Old Comment=S8050 New Comment=SS8050(1.5A)
+Change Component Comment : Designator=Q2 Old Comment=S8050 New Comment=SS8050(1.5A)
+Added Pin To Net: NetName=VCC12V Pin=DG1-1
+Added Pin To Net: NetName=NetD1_1 Pin=DG1-2
+Added Pin To Net: NetName=VCC12V Pin=DG2-1
+Added Pin To Net: NetName=NetD2_1 Pin=DG2-2

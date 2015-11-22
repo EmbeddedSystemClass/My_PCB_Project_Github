@@ -1,0 +1,27 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Intelligent_Agriculture.PrjPCB|ReportField=ProjectFullPath~D:\Desktop\Intelligent_Agriculture\PCB\Intelligent_Agriculture.PrjPCB|ReportField=Title~Bill of Materials For Project [Intelligent_Agriculture.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~88|ReportField=ReportTime~21:05:53|ReportField=ReportDate~2015/6/1 星期一|ReportField=ReportDateTime~2015/6/1 星期一 21:05:53|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/6/1 星期一|ReportField=CurrentTime~21:05:51|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Desktop\Intelligent_Agriculture\PCB\Intelligent_Agriculture.SchDoc|ReportField=DocumentName~Intelligent_Agriculture.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/5/31 星期日|ReportField=Organization~|ReportField=ProjectName~Intelligent_Agriculture.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Intelligent_Agriculture.PrjPCB|ReportField=DataSourceFullPath~D:\Desktop\Intelligent_Agriculture\PCB\Intelligent_Agriculture.PrjPCB
+Cap|无极性电容|C1, C1_lcd, C2_lcd, C4, C5, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C18, C19, C20, C21|C-RAD-0805|Cap|19
+Cap Pol1|Polarized Capacitor (Radial)|C2|C-RB-2.54|Cap Pol1|1
+Cap Pol|极性电解电容|C3, C6, C17|CAP-3528|Cap Pol|3
+LCD_CON20||CON1|FPC0.5-20P-A|LCD_CON20|1
+Diode|二极管|D01, D1, D02, D2, D3, D4|DIODE-1206|Diode|6
+DG301-3P||DG1, DG2, DG3, DG4|DG301-3P|DG301-3P|4
+PWRCON|直流电源端子|J0|DC-005|PWRCON|1
+Header 2|接插件|JMP0, P3, P4, P5, P8, P9, P10, P11|HDR2X1_A|Header 2|8
+LED0|发光二极管|LED1|LED_A2|LED0|1
+Header 4|接插件|P1|HDR4X1_A|Header 4|1
+Header 3|接插件|P2|HDR3X1_A|Header 3|1
+LCDLEDAK||P6|LCD_JLX12864G-1504|LCDLEDAK|1
+Header 6|接插件|P7|HDR6X1_A|Header 6|1
+S9013|NPN三极管|Q1, Q2, Q3, Q4, Q6|SOT-23|BCP68|5
+Res1|贴片电阻|R1, R2, R4, R5, R6, R7, R8, R9, R11, R12, R14, R15, R17, R18, R20, R23, R24, R25, R26, R27, R28|0805-1|Res1|21
+Res1|贴片电阻|R29|1206|Res1|1
+SW-PB4|微动开关|S1|SW_PB4_B1|SW-PB4|1
+SRD-12VDC||SDR1, SDR2, SDR3, SDR4|SRD-05VDC|SRD-05VDC|4
+SW-SPDT|开关|SW1|SWITCH_A2|SW-SPDT|1
+STM32F103C|STM32单片机48引脚|U1|LQFP-48_M|STM32F103C|1
+AMS1117-3.3|3.3V稳压芯片|U2|SOT-223|SPX1117M3-3.3|1
+LM78M05||U3|TO-252|LM78M05|1
+HS0038B|红外接收器|U4|HS0038B|HS0038B|1
+DS18B20|温度传感器|U5|HDR3X1_A|DS18B20|1
+XTAL_SM|圆柱晶振|Y1|X-TC15_B|XTAL_SM|1
+XTAL|晶振|Y2|X-HC49U|XTAL|1

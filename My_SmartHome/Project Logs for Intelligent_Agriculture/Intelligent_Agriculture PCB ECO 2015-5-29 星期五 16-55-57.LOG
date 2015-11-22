@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P6 Old DesignItemId=Header 2 New DesignItemId=LCDLEDAK
+Change Component Footprint: Designator=P6 Old Footprint=HDR2X1_A New Footprint=LCD_JLX12864G-1504
+Change Component Comment : Designator=P6 Old Comment=Header 2 New Comment=LCDLEDAK
+Added Room: Name=Intelligent_Agriculture

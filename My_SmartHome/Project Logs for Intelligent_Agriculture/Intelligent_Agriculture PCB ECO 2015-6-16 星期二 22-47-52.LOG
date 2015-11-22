@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=KEY_I2 Pin=S5-1
+Removed Pin From Net: NetName=KEY_O1 Pin=S5-2
+Removed Pin From Net: NetName=KEY_O1 Pin=S5-3
+Removed Pin From Net: NetName=KEY_I2 Pin=S5-4
+Added Component: Designator=BT1(CR1220)
+Added Component: Designator=D3(DIODE-1206)
+Added Component: Designator=D4(DIODE-1206)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=VCC3V3 Pin=D4-1
+Added Pin To Net: NetName=VCC3V3 Pin=S5-1
+Added Pin To Net: NetName=VCC3V3 Pin=S5-4
+Added Pin To Net: NetName=KEY_WAIT Pin=S5-2
+Added Pin To Net: NetName=KEY_WAIT Pin=S5-3
+Added Pin To Net: NetName=KEY_WAIT Pin=U1-29
+Added Net: Name=KEY_WAIT
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=D3-1
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=VBAT Pin=D3-2
+Added Pin To Net: NetName=VBAT Pin=D4-2
+Added Pin To Net: NetName=VBAT Pin=U1-1
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component BT1 Battery
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component D3 Diode
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component D4 Diode

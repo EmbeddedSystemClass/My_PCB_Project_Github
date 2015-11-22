@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VCC12V Pin=SDR3-1
+Removed Pin From Net: NetName=VCC12V Pin=SDR4-1
+Added Component: Designator=P8(HDR2X1_A)
+Added Component: Designator=P9(HDR2X1_A)
+Added Component: Designator=P10(HDR2X1_A)
+Added Component: Designator=P11(HDR2X1_A)
+Added Pin To Net: NetName=VCC12V Pin=P8-1
+Added Pin To Net: NetName=VCC12V Pin=P10-1
+Change Net Name : Old Net Name=VCC12V New Net Name=DG3OUTA
+Added Pin To Net: NetName=DG3INA Pin=D3-1
+Added Pin To Net: NetName=DG3INA Pin=P8-2
+Added Pin To Net: NetName=DG3INA Pin=Q3-3
+Added Net: Name=DG3INA
+Added Pin To Net: NetName=DG3INB Pin=P9-1
+Added Pin To Net: NetName=DG3INB Pin=SDR3-1
+Added Net: Name=DG3INB
+Added Pin To Net: NetName=DG3OUTB Pin=P9-2
+Added Pin To Net: NetName=DG3OUTB Pin=SDR3-2
+Added Net: Name=DG3OUTB
+Added Pin To Net: NetName=DG4INA Pin=D4-1
+Added Pin To Net: NetName=DG4INA Pin=P10-2
+Added Pin To Net: NetName=DG4INA Pin=Q4-3
+Added Net: Name=DG4INA
+Added Pin To Net: NetName=DG4INB Pin=P11-1
+Added Pin To Net: NetName=DG4INB Pin=SDR4-1
+Added Net: Name=DG4INB
+Added Pin To Net: NetName=DG4OUTB Pin=P11-2
+Added Pin To Net: NetName=DG4OUTB Pin=SDR4-2
+Added Net: Name=DG4OUTB
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component P8 Header 2
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component P9 Header 2
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component P10 Header 2
+Added Member To Class: ClassName=Intelligent_Agriculture Member=Component P11 Header 2
