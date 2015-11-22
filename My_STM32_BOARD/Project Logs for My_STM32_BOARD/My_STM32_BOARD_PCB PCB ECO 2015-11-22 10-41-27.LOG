@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=R1-2
+Added Pin To Net: NetName=VCC5V Pin=R1-2
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

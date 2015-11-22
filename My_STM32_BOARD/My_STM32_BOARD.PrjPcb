@@ -158,6 +158,26 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=My_STM32_BOARD_PCB 2015-11-22 8-46-59.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=My_STM32_BOARD_PCB 2015-11-22 11-26-08.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=My_STM32_BOARD_PCB 2015-11-22 11-26-13.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=My_STM32_BOARD_PCB 2015-11-22 11-26-21.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=My_STM32_BOARD_PCB.PcbDoc.htm
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
@@ -1022,7 +1042,6 @@ PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
-PreserveParameterLocations=1
 DoGraphics=1
 DoParameters=1
 DoModels=1

@@ -1,0 +1,2 @@
+Remove Pin=R1-2 From Net=VCC5V
+Add Pin To Net: Pin=R1-2 Old Net=VCC5V New Net=VCC3V3

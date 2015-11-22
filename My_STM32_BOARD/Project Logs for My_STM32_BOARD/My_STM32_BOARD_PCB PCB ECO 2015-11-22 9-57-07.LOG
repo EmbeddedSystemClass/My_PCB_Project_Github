@@ -1,0 +1,130 @@
+Change Component Footprint: Designator=Y3 Old Footprint=XT_XTAL New Footprint=XT_XTAL1
+Change Component Footprint: Designator=Y2 Old Footprint=XT_XTAL New Footprint=XT_XTAL_32K
+Change Component Designator: OldDesignator=LCD NewDesignator=My_LCD1
+Added Component: Designator=C1(0402)
+Added Component: Designator=C2(0402)
+Added Component: Designator=C3(0402)
+Added Component: Designator=C4(0402)
+Added Component: Designator=C5(0402)
+Added Component: Designator=C6(0402)
+Added Component: Designator=C7(2029)
+Added Component: Designator=D1(DIODE_DO-214AC)
+Added Component: Designator=D2(DIODE_DO-214AC)
+Added Component: Designator=D3(LED_0805_RED)
+Added Component: Designator=D4(LED_1206_BLUE)
+Added Component: Designator=D5(LED_1206_BLUE)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Component: Designator=R4(6-0805_N)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R6(6-0805_N)
+Added Component: Designator=R7(6-0805_N)
+Added Component: Designator=R8(6-0805_N)
+Added Component: Designator=R9(6-0805_N)
+Added Component: Designator=R10(6-0805_N)
+Added Component: Designator=R11(6-0805_N)
+Added Component: Designator=R12(6-0805_N)
+Added Component: Designator=R13(6-0805_N)
+Added Component: Designator=R14(6-0805_N)
+Added Component: Designator=R15(6-0805_N)
+Added Component: Designator=R16(6-0805_N)
+Added Component: Designator=R17(6-0805_N)
+Added Component: Designator=R18(6-0805_N)
+Added Component: Designator=R19(6-0805_N)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=VCC5V Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=DGND Pin=C6-1
+Added Pin To Net: NetName=VCC5V Pin=C6-2
+Added Pin To Net: NetName=DGND Pin=C7-1
+Added Pin To Net: NetName=VCC5V Pin=C7-2
+Added Pin To Net: NetName=VCC3V3 Pin=D1-1
+Added Pin To Net: NetName=VCC5V Pin=D1-2
+Added Pin To Net: NetName=AGND Pin=D2-1
+Added Pin To Net: NetName=VCC3V3 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=DGND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=LED1 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=LED2 Pin=D5-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC3V3 Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=USB_DM Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=USB_DP Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=VCC5V Pin=R5-2
+Added Pin To Net: NetName=VCC3V3 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=VCC3V3 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetC5_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR8_2 Pin=R10-2
+Added Pin To Net: NetName=VCC3V3 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=VCC3V3 Pin=R12-1
+Added Pin To Net: NetName=NetD3_1 Pin=R12-2
+Added Pin To Net: NetName=VCC3V3 Pin=R13-1
+Added Pin To Net: NetName=NetD4_1 Pin=R13-2
+Added Pin To Net: NetName=VCC3V3 Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=VCC3V3 Pin=R15-1
+Added Pin To Net: NetName=NetD5_1 Pin=R15-2
+Added Pin To Net: NetName=VCC3V3 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=VCC3V3 Pin=R17-1
+Added Pin To Net: NetName=NetD6_1 Pin=R17-2
+Added Pin To Net: NetName=VCC3V3 Pin=R18-1
+Added Pin To Net: NetName=NetD7_1 Pin=R18-2
+Added Pin To Net: NetName=VCC3V3 Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C1 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C2 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C3 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C4 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C5 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C6 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component C7 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component D1 
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component D2 
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component D3 LED_0805
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component D4 LED_0805
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component D5 LED_0805
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R1 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R2 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R3 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R4 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R5 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R6 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R7 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R8 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R9 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R10 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R11 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R12 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R13 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R14 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R15 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R16 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R17 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R18 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R19 Res3
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

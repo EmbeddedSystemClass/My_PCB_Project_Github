@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Y3 Old Footprint=XT_XTAL1 New Footprint=XT_XTAL
+Added Component: Designator=Y1(XT_XTAL)
+Added Pin To Net: NetName=NetC3_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-2
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component Y1 XTAL
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

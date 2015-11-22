@@ -1,0 +1,281 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=AGND Pin=C1-2
+Removed Pin From Net: NetName=3_3V Pin=C2-1
+Removed Pin From Net: NetName=AGND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=VCC Pin=C9-2
+Removed Pin From Net: NetName=AGND Pin=D1-1
+Removed Pin From Net: NetName=3_3V Pin=D1-2
+Removed Pin From Net: NetName=3_3V Pin=D2-1
+Removed Pin From Net: NetName=VCC Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R8-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R8-2
+Removed Pin From Net: NetName=VCC Pin=R9-1
+Removed Pin From Net: NetName=NetD4_1 Pin=R9-2
+Removed Pin From Net: NetName=VCC Pin=R10-1
+Removed Pin From Net: NetName=NetD5_1 Pin=R10-2
+Removed Pin From Net: NetName=NetD6_1 Pin=R11-2
+Removed Pin From Net: NetName=NetD7_1 Pin=R12-2
+Removed Pin From Net: NetName=NetR16_2 Pin=S4-1
+Removed Pin From Net: NetName=AGND Pin=U1-1
+Removed Pin From Net: NetName=3_3V Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-3
+Removed Pin From Net: NetName=UART1_TX Pin=U2-1
+Removed Pin From Net: NetName=UART1_RX Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=VCC Pin=U2-8
+Removed Pin From Net: NetName=NetR6_2 Pin=U2-13
+Removed Pin From Net: NetName=NetR7_2 Pin=U2-14
+Removed Pin From Net: NetName=NetR4_1 Pin=U2-15
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-16
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=VCC Pin=U2-19
+Removed Pin From Net: NetName=VCC Pin=U2-20
+Removed Pin From Net: NetName=GND Pin=U2-21
+Removed Pin From Net: NetName=NetR1_1 Pin=U2-23
+Removed Pin From Net: NetName=NetC5_1 Pin=U2-24
+Removed Pin From Net: NetName=GND Pin=U2-25
+Removed Pin From Net: NetName=GND Pin=U2-26
+Removed Pin From Net: NetName=NetC4_1 Pin=U2-27
+Removed Pin From Net: NetName=NetC3_1 Pin=U2-28
+Removed Pin From Net: NetName=NetC4_1 Pin=Y1-1
+Removed Pin From Net: NetName=NetC3_1 Pin=Y1-2
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J1
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J2
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J3
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J4
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J5
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J6
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J7
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=J8
+Removed Member From Class: ClassName=My_STM32_BOARD_SCH Member=My_LCD
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap New DesignItemId=Cap_Pol
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap New DesignItemId=Cap_Pol
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap_Pol New DesignItemId=Cap
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap_Pol New DesignItemId=Cap
+Change Component DesignItemId : Designator=U2 Old DesignItemId=Com_PL2303 New DesignItemId=Power_LM
+Change Component DesignItemId : Designator=U1 Old DesignItemId=Power_LM New DesignItemId=Com_PL2303
+Change Component Footprint: Designator=C8 Old Footprint=0402 New Footprint=Cap_Pol_F5
+Change Component Footprint: Designator=C9 Old Footprint=0402 New Footprint=Cap_Pol_F6
+Change Component Footprint: Designator=C1 Old Footprint=Cap_Pol_F5 New Footprint=0402
+Change Component Footprint: Designator=C2 Old Footprint=Cap_Pol_F6 New Footprint=0402
+Change Component Footprint: Designator=U1 Old Footprint=lm1117 New Footprint=SSOP-28
+Change Component Comment : Designator=C8 Old Comment=Cap New Comment=Cap_Pol
+Change Component Comment : Designator=C9 Old Comment=Cap New Comment=Cap_Pol
+Change Component Comment : Designator=C1 Old Comment=Cap_Pol New Comment=Cap
+Change Component Comment : Designator=C2 Old Comment=Cap_Pol New Comment=Cap
+Change Component Comment : Designator=U2 Old Comment=Com_PL2303 New Comment=LM317
+Change Component Comment : Designator=U1 Old Comment=LM317 New Comment=Com_PL2303
+Change Component Description : Designator=U2 Old Description=PL2303 New Description=LM317 µÁ‘¥–æ∆¨
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(C1206)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=My_LCD1(ILI9325)
+Added Component: Designator=R17(6-0805_N)
+Added Component: Designator=R18(6-0805_N)
+Added Component: Designator=R19(6-0805_N)
+Added Component: Designator=U3(LQFP-100)
+Added Component: Designator=Y2(XT_XTAL)
+Added Component: Designator=Y3(XT_XTAL)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=3_3V Pin=C9-1
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=3_3V Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=AGND Pin=D2-1
+Added Pin To Net: NetName=3_3V Pin=D2-2
+Added Pin To Net: NetName=GND Pin=My_LCD1-1
+Added Pin To Net: NetName=3_3V Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetC5_1 Pin=R8-1
+Added Pin To Net: NetName=NetD3_1 Pin=R12-2
+Added Pin To Net: NetName=NetD4_1 Pin=R13-2
+Added Pin To Net: NetName=NetD5_1 Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=R17-1
+Added Pin To Net: NetName=NetD6_1 Pin=R17-2
+Added Pin To Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=NetD7_1 Pin=R18-2
+Added Pin To Net: NetName=VCC Pin=R19-1
+Added Pin To Net: NetName=AGND Pin=S1-3
+Added Pin To Net: NetName=AGND Pin=S2-3
+Added Pin To Net: NetName=NetR16_2 Pin=S3-1
+Added Pin To Net: NetName=AGND Pin=S3-3
+Added Pin To Net: NetName=AGND Pin=S4-3
+Added Pin To Net: NetName=UART1_TX Pin=U1-1
+Added Pin To Net: NetName=UART1_RX Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=NetR6_2 Pin=U1-13
+Added Pin To Net: NetName=NetR7_2 Pin=U1-14
+Added Pin To Net: NetName=NetC5_1 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=VCC Pin=U1-19
+Added Pin To Net: NetName=VCC Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=NetR4_1 Pin=U1-23
+Added Pin To Net: NetName=NetC4_1 Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=NetC3_1 Pin=U1-27
+Added Pin To Net: NetName=AGND Pin=U2-1
+Added Pin To Net: NetName=3_3V Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Pin To Net: NetName=RESET Pin=U3-14
+Added Pin To Net: NetName=UART1_TX Pin=U3-25
+Added Pin To Net: NetName=UART1_RX Pin=U3-26
+Added Pin To Net: NetName=GND Pin=U3-27
+Added Pin To Net: NetName=VCC Pin=U3-28
+Added Pin To Net: NetName=GND Pin=U3-49
+Added Pin To Net: NetName=VCC Pin=U3-50
+Added Pin To Net: NetName=GND Pin=U3-74
+Added Pin To Net: NetName=VCC Pin=U3-75
+Added Pin To Net: NetName=GND Pin=U3-99
+Added Pin To Net: NetName=VCC Pin=U3-100
+Added Pin To Net: NetName=NetR1_1 Pin=USB1-2
+Added Pin To Net: NetName=NetR3_1 Pin=USB1-3
+Added Pin To Net: NetName=VCC Pin=USB2-1
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=GND Pin=USB2-5
+Added Pin To Net: NetName=NetC3_1 Pin=Y1-1
+Added Pin To Net: NetName=LCD_3V3 Pin=My_LCD1-2
+Added Net: Name=LCD_3V3
+Added Pin To Net: NetName=LCD_CS Pin=My_LCD1-15
+Added Pin To Net: NetName=LCD_CS Pin=U3-88
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_DB0 Pin=My_LCD1-21
+Added Pin To Net: NetName=LCD_DB0 Pin=U3-61
+Added Net: Name=LCD_DB0
+Added Pin To Net: NetName=LCD_DB1 Pin=My_LCD1-22
+Added Pin To Net: NetName=LCD_DB1 Pin=U3-62
+Added Net: Name=LCD_DB1
+Added Pin To Net: NetName=LCD_DB2 Pin=My_LCD1-23
+Added Pin To Net: NetName=LCD_DB2 Pin=U3-81
+Added Net: Name=LCD_DB2
+Added Pin To Net: NetName=LCD_DB3 Pin=My_LCD1-24
+Added Pin To Net: NetName=LCD_DB3 Pin=U3-82
+Added Net: Name=LCD_DB3
+Added Pin To Net: NetName=LCD_DB4 Pin=My_LCD1-25
+Added Pin To Net: NetName=LCD_DB4 Pin=U3-38
+Added Net: Name=LCD_DB4
+Added Pin To Net: NetName=LCD_DB5 Pin=My_LCD1-26
+Added Pin To Net: NetName=LCD_DB5 Pin=U3-39
+Added Net: Name=LCD_DB5
+Added Pin To Net: NetName=LCD_DB6 Pin=My_LCD1-27
+Added Pin To Net: NetName=LCD_DB6 Pin=U3-40
+Added Net: Name=LCD_DB6
+Added Pin To Net: NetName=LCD_DB7 Pin=My_LCD1-28
+Added Pin To Net: NetName=LCD_DB7 Pin=U3-41
+Added Net: Name=LCD_DB7
+Added Pin To Net: NetName=LCD_DB8 Pin=My_LCD1-7
+Added Pin To Net: NetName=LCD_DB8 Pin=U3-42
+Added Net: Name=LCD_DB8
+Added Pin To Net: NetName=LCD_DB9 Pin=My_LCD1-8
+Added Pin To Net: NetName=LCD_DB9 Pin=U3-43
+Added Net: Name=LCD_DB9
+Added Pin To Net: NetName=LCD_DB10 Pin=My_LCD1-9
+Added Pin To Net: NetName=LCD_DB10 Pin=U3-44
+Added Net: Name=LCD_DB10
+Added Pin To Net: NetName=LCD_DB11 Pin=My_LCD1-10
+Added Pin To Net: NetName=LCD_DB11 Pin=U3-45
+Added Net: Name=LCD_DB11
+Added Pin To Net: NetName=LCD_DB12 Pin=My_LCD1-11
+Added Pin To Net: NetName=LCD_DB12 Pin=U3-46
+Added Net: Name=LCD_DB12
+Added Pin To Net: NetName=LCD_DB13 Pin=My_LCD1-12
+Added Pin To Net: NetName=LCD_DB13 Pin=U3-55
+Added Net: Name=LCD_DB13
+Added Pin To Net: NetName=LCD_DB14 Pin=My_LCD1-13
+Added Pin To Net: NetName=LCD_DB14 Pin=U3-56
+Added Net: Name=LCD_DB14
+Added Pin To Net: NetName=LCD_DB15 Pin=My_LCD1-14
+Added Pin To Net: NetName=LCD_DB15 Pin=U3-57
+Added Net: Name=LCD_DB15
+Added Pin To Net: NetName=LCD_RD Pin=My_LCD1-6
+Added Pin To Net: NetName=LCD_RD Pin=U3-85
+Added Net: Name=LCD_RD
+Added Pin To Net: NetName=LCD_RS Pin=My_LCD1-4
+Added Pin To Net: NetName=LCD_RS Pin=U3-58
+Added Net: Name=LCD_RS
+Added Pin To Net: NetName=LCD_RST Pin=My_LCD1-17
+Added Pin To Net: NetName=LCD_RST Pin=U3-98
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=LCD_WR Pin=My_LCD1-5
+Added Pin To Net: NetName=LCD_WR Pin=U3-86
+Added Net: Name=LCD_WR
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-28
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U3-8
+Added Pin To Net: NetName=NetC10_2 Pin=Y2-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U3-9
+Added Pin To Net: NetName=NetC11_2 Pin=Y2-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U3-12
+Added Pin To Net: NetName=NetC12_2 Pin=Y3-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U3-13
+Added Pin To Net: NetName=NetC13_2 Pin=Y3-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-22
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R10-2
+Added Pin To Net: NetName=NetR8_2 Pin=USB2-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-16
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=USB2-3
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-15
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=S1-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=S4-1
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=USB_DM Pin=R2-2
+Added Pin To Net: NetName=USB_DM Pin=U3-70
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=R3-2
+Added Pin To Net: NetName=USB_DP Pin=U3-71
+Added Net: Name=USB_DP
+Change Class Name : Old Net Name=My_STM32_BOARD_SCH New Net Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Class: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Class: Name=U_My_STM32_BOARD_MCU_SCH
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R17 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R18 Res3
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component R19 Res3
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH
