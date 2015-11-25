@@ -1,0 +1,42 @@
+Remove Pin=LCD-4 From Net=LCD_RS
+Remove Pin=LCD-5 From Net=LCD_WR
+Remove Pin=LCD-6 From Net=LCD_RD
+Remove Pin=LCD-7 From Net=LCD_DB8
+Remove Pin=LCD-8 From Net=LCD_DB9
+Remove Pin=LCD-9 From Net=LCD_DB10
+Remove Pin=LCD-10 From Net=LCD_DB11
+Remove Pin=LCD-11 From Net=LCD_DB12
+Remove Pin=LCD-12 From Net=LCD_DB13
+Remove Pin=LCD-13 From Net=LCD_DB14
+Remove Pin=LCD-14 From Net=LCD_DB15
+Remove Pin=LCD-15 From Net=LCD_CS
+Remove Pin=LCD-17 From Net=LCD_RST
+Remove Pin=LCD-21 From Net=LCD_DB0
+Remove Pin=LCD-22 From Net=LCD_DB1
+Remove Pin=LCD-23 From Net=LCD_DB2
+Remove Pin=LCD-24 From Net=LCD_DB3
+Remove Pin=LCD-25 From Net=LCD_DB4
+Remove Pin=LCD-26 From Net=LCD_DB5
+Remove Pin=LCD-27 From Net=LCD_DB6
+Remove Pin=LCD-28 From Net=LCD_DB7
+Add Pin To Net: Pin=LCD-4 Old Net=LCD_RS New Net=LCD_RS
+Add Pin To Net: Pin=LCD-5 Old Net=LCD_WR New Net=LCD_WR
+Add Pin To Net: Pin=LCD-6 Old Net=LCD_RD New Net=LCD_RD
+Add Pin To Net: Pin=LCD-7 Old Net=LCD_DB8 New Net=LCD_DB8
+Add Pin To Net: Pin=LCD-8 Old Net=LCD_DB9 New Net=LCD_DB9
+Add Pin To Net: Pin=LCD-9 Old Net=LCD_DB10 New Net=LCD_DB10
+Add Pin To Net: Pin=LCD-10 Old Net=LCD_DB11 New Net=LCD_DB11
+Add Pin To Net: Pin=LCD-11 Old Net=LCD_DB12 New Net=LCD_DB12
+Add Pin To Net: Pin=LCD-12 Old Net=LCD_DB13 New Net=LCD_DB13
+Add Pin To Net: Pin=LCD-13 Old Net=LCD_DB14 New Net=LCD_DB14
+Add Pin To Net: Pin=LCD-14 Old Net=LCD_DB15 New Net=LCD_DB15
+Add Pin To Net: Pin=LCD-15 Old Net=LCD_CS New Net=LCD_CS
+Add Pin To Net: Pin=LCD-17 Old Net=LCD_RST New Net=LCD_RST
+Add Pin To Net: Pin=LCD-21 Old Net=LCD_DB0 New Net=LCD_DB0
+Add Pin To Net: Pin=LCD-22 Old Net=LCD_DB1 New Net=LCD_DB1
+Add Pin To Net: Pin=LCD-23 Old Net=LCD_DB2 New Net=LCD_DB2
+Add Pin To Net: Pin=LCD-24 Old Net=LCD_DB3 New Net=LCD_DB3
+Add Pin To Net: Pin=LCD-25 Old Net=LCD_DB4 New Net=LCD_DB4
+Add Pin To Net: Pin=LCD-26 Old Net=LCD_DB5 New Net=LCD_DB5
+Add Pin To Net: Pin=LCD-27 Old Net=LCD_DB6 New Net=LCD_DB6
+Add Pin To Net: Pin=LCD-28 Old Net=LCD_DB7 New Net=LCD_DB7

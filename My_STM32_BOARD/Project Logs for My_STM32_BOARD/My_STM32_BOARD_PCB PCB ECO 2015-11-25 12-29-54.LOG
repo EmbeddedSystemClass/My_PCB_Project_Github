@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=AGND Pin=C11-1
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Removed Pin From Net: NetName=AGND Pin=C12-1
+Removed Pin From Net: NetName=NetC12_2 Pin=C12-2
+Change Component DesignItemId : Designator=S1 Old DesignItemId=KEY_K4 New DesignItemId=KEY
+Change Component DesignItemId : Designator=S2 Old DesignItemId=KEY_K4 New DesignItemId=KEY
+Change Component DesignItemId : Designator=S3 Old DesignItemId=KEY_K4 New DesignItemId=KEY
+Change Component DesignItemId : Designator=S4 Old DesignItemId=KEY_K4 New DesignItemId=KEY
+Change Component DesignItemId : Designator=U2 Old DesignItemId=Power_LM New DesignItemId=Power
+Change Component Footprint: Designator=C10 Old Footprint=C1206 New Footprint=0402
+Change Component Footprint: Designator=C13 Old Footprint=C1206 New Footprint=0402
+Change Component Description : Designator=U2 Old Description=LM317 电? New Description=LM317 电源芯片
+Change Component Description : Designator=S1 Old Description=四? New Description=四脚按键
+Change Component Description : Designator=S2 Old Description=四? New Description=四脚按键
+Change Component Description : Designator=S3 Old Description=四? New Description=四脚按键
+Change Component Description : Designator=S4 Old Description=四? New Description=四脚按键
+Added Component: Designator=C11(0402)
+Added Component: Designator=C12(0402)
+Added Pin To Net: NetName=AGND Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=AGND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C11 Cap Semi
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

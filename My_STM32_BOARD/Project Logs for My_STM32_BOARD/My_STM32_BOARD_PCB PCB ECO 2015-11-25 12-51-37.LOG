@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=C8
+Added Component: Designator=SWD(CN20)
+Added Pin To Net: NetName=VCC3V3 Pin=SWD-1
+Added Pin To Net: NetName=AGND Pin=SWD-4
+Added Pin To Net: NetName=SWDCLK Pin=SWD-9
+Added Pin To Net: NetName=SWDCLK Pin=U3-76
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=SWD-7
+Added Pin To Net: NetName=SWDIO Pin=U3-72
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C11 Cap Semi
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C12 Cap Semi
+Added Member To Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=Component SWD PH_CN20
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

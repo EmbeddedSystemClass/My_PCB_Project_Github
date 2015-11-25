@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=AGND Pin=My_LCD1-1
+Removed Pin From Net: NetName=VCC3V3 Pin=My_LCD1-2
+Removed Pin From Net: NetName=LCD_RS Pin=My_LCD1-4
+Removed Pin From Net: NetName=LCD_WR Pin=My_LCD1-5
+Removed Pin From Net: NetName=LCD_RD Pin=My_LCD1-6
+Removed Pin From Net: NetName=LCD_DB8 Pin=My_LCD1-7
+Removed Pin From Net: NetName=LCD_DB9 Pin=My_LCD1-8
+Removed Pin From Net: NetName=LCD_DB10 Pin=My_LCD1-9
+Removed Pin From Net: NetName=LCD_DB11 Pin=My_LCD1-10
+Removed Pin From Net: NetName=LCD_DB12 Pin=My_LCD1-11
+Removed Pin From Net: NetName=LCD_DB13 Pin=My_LCD1-12
+Removed Pin From Net: NetName=LCD_DB14 Pin=My_LCD1-13
+Removed Pin From Net: NetName=LCD_DB15 Pin=My_LCD1-14
+Removed Pin From Net: NetName=LCD_CS Pin=My_LCD1-15
+Removed Pin From Net: NetName=LCD_RST Pin=My_LCD1-17
+Removed Pin From Net: NetName=LCD_DB0 Pin=My_LCD1-21
+Removed Pin From Net: NetName=LCD_DB1 Pin=My_LCD1-22
+Removed Pin From Net: NetName=LCD_DB2 Pin=My_LCD1-23
+Removed Pin From Net: NetName=LCD_DB3 Pin=My_LCD1-24
+Removed Pin From Net: NetName=LCD_DB4 Pin=My_LCD1-25
+Removed Pin From Net: NetName=LCD_DB5 Pin=My_LCD1-26
+Removed Pin From Net: NetName=LCD_DB6 Pin=My_LCD1-27
+Removed Pin From Net: NetName=LCD_DB7 Pin=My_LCD1-28
+Removed Member From Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=My_LCD1
+Added Component: Designator=LCD(ILI9325)
+Added Pin To Net: NetName=AGND Pin=LCD-1
+Added Pin To Net: NetName=VCC3V3 Pin=LCD-2
+Added Pin To Net: NetName=LCD_RS Pin=LCD-4
+Added Pin To Net: NetName=LCD_WR Pin=LCD-5
+Added Pin To Net: NetName=LCD_RD Pin=LCD-6
+Added Pin To Net: NetName=LCD_DB8 Pin=LCD-7
+Added Pin To Net: NetName=LCD_DB9 Pin=LCD-8
+Added Pin To Net: NetName=LCD_DB10 Pin=LCD-9
+Added Pin To Net: NetName=LCD_DB11 Pin=LCD-10
+Added Pin To Net: NetName=LCD_DB12 Pin=LCD-11
+Added Pin To Net: NetName=LCD_DB13 Pin=LCD-12
+Added Pin To Net: NetName=LCD_DB14 Pin=LCD-13
+Added Pin To Net: NetName=LCD_DB15 Pin=LCD-14
+Added Pin To Net: NetName=LCD_CS Pin=LCD-15
+Added Pin To Net: NetName=LCD_RST Pin=LCD-17
+Added Pin To Net: NetName=LCD_DB0 Pin=LCD-21
+Added Pin To Net: NetName=LCD_DB1 Pin=LCD-22
+Added Pin To Net: NetName=LCD_DB2 Pin=LCD-23
+Added Pin To Net: NetName=LCD_DB3 Pin=LCD-24
+Added Pin To Net: NetName=LCD_DB4 Pin=LCD-25
+Added Pin To Net: NetName=LCD_DB5 Pin=LCD-26
+Added Pin To Net: NetName=LCD_DB6 Pin=LCD-27
+Added Pin To Net: NetName=LCD_DB7 Pin=LCD-28
+Added Member To Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=Component LCD LCD_ILI9325
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH
