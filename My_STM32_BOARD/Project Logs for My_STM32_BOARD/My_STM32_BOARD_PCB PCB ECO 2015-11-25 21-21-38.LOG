@@ -1,0 +1,6 @@
+Added Component: Designator=TP1(MARK)
+Added Component: Designator=TP2(MARK)
+Added Component: Designator=TP3(MARK)
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component TP1 TP
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component TP2 TP
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component TP3 TP

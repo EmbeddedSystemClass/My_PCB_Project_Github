@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=J1
+Removed Member From Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=J2
+Removed Member From Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=LCD
+Removed Member From Class: ClassName=U_My_STM32_BOARD_HEADER_SCH Member=SWD
+Added Pin To Net: NetName=AGND Pin=J3-4
+Added Pin To Net: NetName=A_AREF Pin=J3-3
+Added Net: Name=A_AREF
+Added Pin To Net: NetName=A_CLK Pin=J3-5
+Added Pin To Net: NetName=A_CLK Pin=U3-52
+Added Net: Name=A_CLK
+Added Pin To Net: NetName=A_CS Pin=J3-8
+Added Pin To Net: NetName=A_CS Pin=U3-51
+Added Net: Name=A_CS
+Added Pin To Net: NetName=A_D8 Pin=J3-10
+Added Net: Name=A_D8
+Added Pin To Net: NetName=A_MISO Pin=J3-6
+Added Pin To Net: NetName=A_MISO Pin=U3-53
+Added Net: Name=A_MISO
+Added Pin To Net: NetName=A_MOSI Pin=J3-7
+Added Pin To Net: NetName=A_MOSI Pin=U3-54
+Added Net: Name=A_MOSI
+Added Pin To Net: NetName=A_PWM/D9 Pin=J3-9
+Added Net: Name=A_PWM/D9
+Added Pin To Net: NetName=A_SCL1 Pin=J3-1
+Added Pin To Net: NetName=A_SCL1 Pin=U3-95
+Added Net: Name=A_SCL1
+Added Pin To Net: NetName=A_SDA1 Pin=J3-2
+Added Pin To Net: NetName=A_SDA1 Pin=U3-96
+Added Net: Name=A_SDA1
+Change Class Name : Old Net Name=U_My_STM32_BOARD_HEADER_SCH New Net Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Class: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH
