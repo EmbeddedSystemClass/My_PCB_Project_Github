@@ -1,0 +1,87 @@
+Change Component DesignItemId : Designator=BT1 Old DesignItemId=Battery New DesignItemId=Batt
+Change Component DesignItemId : Designator=Q6 Old DesignItemId=BCP68 New DesignItemId=BCP
+Change Component DesignItemId : Designator=C22 Old DesignItemId=Cap P New DesignItemId=Cap
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Pol1 New DesignItemId=Cap P
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Pol New DesignItemId=Cap P
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Pol New DesignItemId=Cap P
+Change Component DesignItemId : Designator=C17 Old DesignItemId=Cap Pol New DesignItemId=Cap P
+Change Component DesignItemId : Designator=D01 Old DesignItemId=Diode New DesignItemId=Dio
+Change Component DesignItemId : Designator=D02 Old DesignItemId=Diode New DesignItemId=Dio
+Change Component DesignItemId : Designator=D3 Old DesignItemId=Diode New DesignItemId=Dio
+Change Component DesignItemId : Designator=D4 Old DesignItemId=Diode New DesignItemId=Dio
+Change Component DesignItemId : Designator=U5 Old DesignItemId=DS18B20 New DesignItemId=DS1
+Change Component DesignItemId : Designator=U10 Old DesignItemId=EMW316 New DesignItemId=EMW31
+Change Component DesignItemId : Designator=JMP0 Old DesignItemId=Header 2 New DesignItemId=Header
+Change Component DesignItemId : Designator=P0 Old DesignItemId=Header 2 New DesignItemId=Header
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 2 New DesignItemId=Header
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 2 New DesignItemId=Header
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 2 New DesignItemId=Header
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 3 New DesignItemId=Header
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Header 4 New DesignItemId=Header
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 5 New DesignItemId=Header
+Change Component DesignItemId : Designator=P10 Old DesignItemId=Header 5 New DesignItemId=Header
+Change Component DesignItemId : Designator=U4 Old DesignItemId=HS0038B New DesignItemId=HS0
+Change Component DesignItemId : Designator=CON1 Old DesignItemId=LCD_CON20 New DesignItemId=LCD_CON
+Change Component DesignItemId : Designator=P6 Old DesignItemId=LCDLEDAK New DesignItemId=LCDLEDA
+Change Component DesignItemId : Designator=U3 Old DesignItemId=LM78M05 New DesignItemId=LM78
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R4 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R7 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R20 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R23 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R24 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R25 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R26 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R27 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R28 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R29 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R50 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R51 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R52 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=U2 Old DesignItemId=SPX1117M3-3.3 New DesignItemId=SPX1117M3-
+Change Component DesignItemId : Designator=U1 Old DesignItemId=STM32F103C New DesignItemId=STM32F
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S2 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S3 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S4 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S5 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S6 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S7 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S8 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S9 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S10 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=S11 Old DesignItemId=SW-PB4 New DesignItemId=SW-
+Change Component DesignItemId : Designator=Y2 Old DesignItemId=XTAL New DesignItemId=XTA
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=XTAL_SM New DesignItemId=XTAL
+Change Component Description : Designator=U2 Old Description=3.3V稳压? New Description=3.3V稳压芯片
+Change Component Description : Designator=U3 Old Description=5V稳压? New Description=5V稳压芯片
+Change Component Description : Designator=P6 Old Description=LCD12864框? New Description=LCD12864框架
+Change Component Description : Designator=CON1 Old Description=LCD接插 New Description=LCD接插件
+Change Component Description : Designator=Q6 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=LED2 Old Description=发光二 New Description=发光二极管
+Change Component Description : Designator=LED3 Old Description=发光二 New Description=发光二极管
+Change Component Description : Designator=S1 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S2 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S3 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S4 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S5 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S6 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S7 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S8 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S9 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S10 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=S11 Old Description=微动? New Description=微动开关
+Change Component Description : Designator=P10 Old Description=接插 New Description=接插件
+Change Component Description : Designator=C7 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=C8 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=C23 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=C24 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=U5 Old Description=温度传 New Description=温度传感器
+Change Component Description : Designator=C2 Old Description=电解? New Description=电解电容
+Change Component Description : Designator=R50 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R51 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R52 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=C22 Old Description=钽电 New Description=钽电容
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

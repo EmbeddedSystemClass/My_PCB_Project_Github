@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=U_Intelligent_Agriculture_Wifi Member=S10
+Added Component: Designator=S11(SW_PB4_B1)
+Added Pin To Net: NetName=GND Pin=S11-1
+Added Pin To Net: NetName=E_RST Pin=S11-2
+Added Pin To Net: NetName=E_RST Pin=S11-3
+Added Pin To Net: NetName=GND Pin=S11-4
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component S11 SW-PB4
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

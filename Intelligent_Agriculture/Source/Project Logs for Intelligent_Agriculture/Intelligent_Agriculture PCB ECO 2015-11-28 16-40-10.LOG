@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=LED2-1
+Removed Pin From Net: NetName=VCC3V3 Pin=LED3-1
+Added Component: Designator=R51(0805-1)
+Added Component: Designator=R52(0805-1)
+Added Pin To Net: NetName=VCC3V3 Pin=R51-2
+Added Pin To Net: NetName=VCC3V3 Pin=R52-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R52-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R51-1
+Added Net: Name=NetLED3_1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R51 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R52 Res1
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

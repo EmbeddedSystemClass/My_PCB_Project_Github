@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NRST Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap P New DesignItemId=Cap
+Change Component Comment : Designator=C7 Old Comment=Cap Pol New Comment=Cap
+Change Component Description : Designator=C7 Old Description=钽电容 New Description=无极性电容
+Added Component: Designator=C22(CAP-3528)
+Added Component: Designator=C23(C-RAD-0805)
+Added Pin To Net: NetName=VCC3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NRST Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC3V3 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=VCC3V3 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Class: Name=U_Intelligent_Agriculture_Wifi
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component C7 Cap
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component C8 Cap

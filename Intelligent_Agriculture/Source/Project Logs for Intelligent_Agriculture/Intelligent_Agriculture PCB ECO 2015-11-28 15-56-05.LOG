@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=KEY_I3 Pin=S10-1
+Removed Pin From Net: NetName=KEY_O3 Pin=S10-2
+Removed Pin From Net: NetName=KEY_O3 Pin=S10-3
+Removed Pin From Net: NetName=KEY_I3 Pin=S10-4
+Change Component Comment : Designator=S10 Old Comment=SW-SMART New Comment=SW-PB4
+Added Component: Designator=C24(C-RAD-0805)
+Added Component: Designator=P10(HDR5_A1)
+Added Component: Designator=R50(0805-1)
+Added Component: Designator=S10(SW_PB4_B1)
+Added Pin To Net: NetName=E_RST Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=E_RST Pin=P10-4
+Added Pin To Net: NetName=VCC3V3 Pin=P10-5
+Added Pin To Net: NetName=E_RST Pin=R50-1
+Added Pin To Net: NetName=VCC3V3 Pin=R50-2
+Added Pin To Net: NetName=GND Pin=S10-1
+Added Pin To Net: NetName=KEY_I3 Pin=S10-1
+Added Pin To Net: NetName=E_RST Pin=S10-2
+Added Pin To Net: NetName=KEY_O3 Pin=S10-2
+Added Pin To Net: NetName=E_RST Pin=S10-3
+Added Pin To Net: NetName=KEY_O3 Pin=S10-3
+Added Pin To Net: NetName=GND Pin=S10-4
+Added Pin To Net: NetName=KEY_I3 Pin=S10-4
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=U10-25
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_3 Pin=U10-26
+Added Net: Name=NetP10_3
+Added Class: Name=U_Intelligent_Agriculture_Wifi
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

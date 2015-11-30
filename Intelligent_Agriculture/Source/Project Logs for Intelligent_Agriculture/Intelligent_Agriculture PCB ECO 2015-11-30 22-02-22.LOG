@@ -1,0 +1,15 @@
+Added Component: Designator=U10(EMW3165)
+Added Pin To Net: NetName=VCC3V3 Pin=U10-10
+Added Pin To Net: NetName=E_RST Pin=U10-13
+Added Pin To Net: NetName=GND Pin=U10-20
+Added Pin To Net: NetName=GND Pin=U10-21
+Added Pin To Net: NetName=NetP10_3 Pin=U10-25
+Added Pin To Net: NetName=NetP10_4 Pin=U10-26
+Added Pin To Net: NetName=TX3 Pin=U10-29
+Added Pin To Net: NetName=NetLED3_2 Pin=U10-31
+Added Pin To Net: NetName=NetLED2_2 Pin=U10-33
+Added Pin To Net: NetName=VCC3V3 Pin=U10-39
+Added Pin To Net: NetName=VCC3V3 Pin=U10-40
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component U10 EMW3165
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

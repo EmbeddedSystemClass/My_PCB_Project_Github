@@ -1,0 +1,8 @@
+Added Component: Designator=S10(SW_PB4_B1)
+Added Pin To Net: NetName=KEY_I3 Pin=S10-1
+Added Pin To Net: NetName=KEY_O3 Pin=S10-2
+Added Pin To Net: NetName=KEY_O3 Pin=S10-3
+Added Pin To Net: NetName=KEY_I3 Pin=S10-4
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component S10 SW-SMART
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi
