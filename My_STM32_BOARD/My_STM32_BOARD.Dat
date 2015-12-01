@@ -1,0 +1,24 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~My_STM32_BOARD.PrjPcb|ReportField=ProjectFullPath~E:\git\My_Git\My_PCB_Project_Github\My_STM32_BOARD\My_STM32_BOARD.PrjPcb|ReportField=Title~Bill of Materials For Project [My_STM32_BOARD.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~65|ReportField=ReportTime~21:03:49|ReportField=ReportDate~2015/11/27|ReportField=ReportDateTime~2015/11/27 21:03:49|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/11/27|ReportField=CurrentTime~21:03:46|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\git\My_Git\My_PCB_Project_Github\My_STM32_BOARD\My_STM32_BOARDSCH.SchDoc|ReportField=DocumentName~My_STM32_BOARDSCH.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/11/27|ReportField=Organization~|ReportField=ProjectName~My_STM32_BOARD.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~My_STM32_BOARD.PrjPcb|ReportField=DataSourceFullPath~E:\git\My_Git\My_PCB_Project_Github\My_STM32_BOARD\My_STM32_BOARD.PrjPcb
+Cap|Capacitor|C1, C2, C3, C4, C5, C6|0402|Cap|6
+Cap|Capacitor|C7|2029|Cap|1
+Cap_Pol|Capacitor|C8|Cap_Pol_F5|Cap_Pol|1
+Cap_Pol|Capacitor|C9|Cap_Pol_F6|Cap_Pol|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C10, C11, C12, C13|0402|Cap Semi|4
+|Diode|D1, D2|DIODE_DO-214AC|Diode_SMA|2
+LED_0805|LED|D3|LED_0805_RED|LED_0805|1
+LED_0805|LED|D4, D5, D6, D7|LED_1206_BLUE|LED_0805|4
+DC5.0V||DC1|DC_5V|DC5V|1
+HDR2X28_2.54|HDR2X28_2.54|J1, J2|HDR2X28_2.54|HDR2X28_2.54|2
+HDR1X10_2.54|HDR1X10_2.54|J3|HDR1X10_2.54_180|HDR1X10_2.54|1
+HDR1X8_2.54|HDR1X8_2.54|J4, J5, J6, J7, J8|HDR1X8_2.54_180|HDR1X8_2.54|5
+LCD_ILI9325|LCD ILI9325|LCD|ILI9325|LCD_ILI9325|1
+Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19|6-0805_N|Res3|19
+Button|四脚按键|S1, S2, S3, S4|My_Button|KEY|4
+PH_CN20|10 X 2|SWD|CN20|PH_CN20|1
+TP||TP1, TP2, TP3|MARK|TP|3
+Com_PL2303|PL2303|U1|SSOP-28|Com_PL2303|1
+LM317|LM317 电源芯片|U2|lm1117|Power|1
+STM32FXXXV||U3|LQFP-100|STM32FXXXV|1
+USB_Mini|USB|USB1, USB2|USB_MINI-B|USB_Mini|2
+XTAL|XTAL|Y1, Y3|XT_HC49S_D|XTAL|2
+XTAL|XTAL|Y2|XT_XTAL_32K|XTAL|1

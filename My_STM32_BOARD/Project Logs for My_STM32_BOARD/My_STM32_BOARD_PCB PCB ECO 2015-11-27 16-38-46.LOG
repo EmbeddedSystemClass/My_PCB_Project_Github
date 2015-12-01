@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=A_MOSI Pin=J1-17
+Added Pin To Net: NetName=A_MISO Pin=J1-19
+Added Pin To Net: NetName=A_CLK Pin=J1-21
+Added Pin To Net: NetName=A_CS Pin=J1-23
+Added Pin To Net: NetName=BOOT1 Pin=U3-37
+Added Pin To Net: NetName=BOOT0 Pin=U3-94
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH
