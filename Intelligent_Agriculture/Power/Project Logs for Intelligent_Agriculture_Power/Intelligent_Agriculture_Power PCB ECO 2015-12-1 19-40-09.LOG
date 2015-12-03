@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=DG1-1
+Removed Pin From Net: NetName=GND Pin=DG2-1
+Removed Pin From Net: NetName=N220V Pin=DG3-1
+Removed Pin From Net: NetName=N220V Pin=DG4-1
+Removed Pin From Net: NetName=VCC12V Pin=SDR1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=SDR1-2
+Removed Pin From Net: NetName=VCC12V Pin=SDR1-3
+Removed Pin From Net: NetName=VCC12V Pin=SDR2-1
+Removed Pin From Net: NetName=NetD2_1 Pin=SDR2-2
+Removed Pin From Net: NetName=VCC12V Pin=SDR2-3
+Removed Pin From Net: NetName=VCC12V Pin=SDR3-1
+Removed Pin From Net: NetName=NetD3_1 Pin=SDR3-2
+Removed Pin From Net: NetName=L220V Pin=SDR3-3
+Removed Pin From Net: NetName=VCC12V Pin=SDR4-1
+Removed Pin From Net: NetName=NetD4_1 Pin=SDR4-2
+Removed Pin From Net: NetName=L220V Pin=SDR4-3
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=SDR1
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=SDR2
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=SDR3
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=SDR4
+Added Component: Designator=U1(RL-G3MC-202P-DC5)
+Added Component: Designator=U2(RL-G3MC-202P-DC5)
+Added Component: Designator=U3(RL-G3MC-202P-DC5)
+Added Component: Designator=U4(RL-G3MC-202P-DC5)
+Added Pin To Net: NetName=GND Pin=DG1-2
+Added Pin To Net: NetName=GND Pin=DG2-2
+Added Pin To Net: NetName=N220V Pin=DG3-2
+Added Pin To Net: NetName=N220V Pin=DG4-2
+Added Pin To Net: NetName=L220V Pin=U1-1
+Added Pin To Net: NetName=VCC12V Pin=U1-3
+Added Pin To Net: NetName=NetD1_1 Pin=U1-4
+Added Pin To Net: NetName=L220V Pin=U2-1
+Added Pin To Net: NetName=VCC12V Pin=U2-3
+Added Pin To Net: NetName=NetD2_1 Pin=U2-4
+Added Pin To Net: NetName=L220V Pin=U3-1
+Added Pin To Net: NetName=VCC12V Pin=U3-3
+Added Pin To Net: NetName=NetD3_1 Pin=U3-4
+Added Pin To Net: NetName=L220V Pin=U4-1
+Added Pin To Net: NetName=VCC12V Pin=U4-3
+Added Pin To Net: NetName=NetD4_1 Pin=U4-4
+Added Pin To Net: NetName=NetDG1_1 Pin=DG1-1
+Added Pin To Net: NetName=NetDG1_1 Pin=U1-2
+Added Net: Name=NetDG1_1
+Added Pin To Net: NetName=NetDG2_1 Pin=DG2-1
+Added Pin To Net: NetName=NetDG2_1 Pin=U2-2
+Added Net: Name=NetDG2_1
+Added Pin To Net: NetName=NetDG3_1 Pin=DG3-1
+Added Pin To Net: NetName=NetDG3_1 Pin=U3-2
+Added Net: Name=NetDG3_1
+Added Pin To Net: NetName=NetDG4_1 Pin=DG4-1
+Added Pin To Net: NetName=NetDG4_1 Pin=U4-2
+Added Net: Name=NetDG4_1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U1 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U2 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U3 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U4 RL-G3MC-202P-DC12
+Added Room: Name=Intelligent_Agriculture_Power

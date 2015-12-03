@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=N220V Pin=DG3-2
+Removed Pin From Net: NetName=N220V Pin=DG4-2
+Added Pin To Net: NetName=N220V Pin=DG3-1
+Added Pin To Net: NetName=N220V Pin=DG4-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetDG3_2 Pin=DG3-2
+Added Pin To Net: NetName=NetDG3_2 Pin=U3-2
+Added Net: Name=NetDG3_2
+Added Pin To Net: NetName=NetDG4_2 Pin=DG4-2
+Added Pin To Net: NetName=NetDG4_2 Pin=U4-2
+Added Net: Name=NetDG4_2
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component P1 Header 2
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component P2 Header 4
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component Q1 S8050
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component Q2 S8050
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component Q3 S8050
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component Q4 S8050
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R8 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R9 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R11 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R12 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R14 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R15 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R17 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component R18 Res1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U0 ACDC_12V10W
+Added Room: Name=Intelligent_Agriculture_Power

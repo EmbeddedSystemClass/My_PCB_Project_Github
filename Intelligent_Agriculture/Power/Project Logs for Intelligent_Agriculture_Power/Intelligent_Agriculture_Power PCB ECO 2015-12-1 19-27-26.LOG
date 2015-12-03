@@ -1,0 +1,5 @@
+Change Component Comment : Designator=Q1 Old Comment=SS8050(1.5A) New Comment=S8050
+Change Component Comment : Designator=Q2 Old Comment=SS8050(1.5A) New Comment=S8050
+Change Component Description : Designator=Q1 Old Description=NPN三极管(1.5A) New Description=NPN三极管
+Change Component Description : Designator=Q2 Old Description=NPN三极管(1.5A) New Description=NPN三极管
+Added Room: Name=Intelligent_Agriculture_Power
