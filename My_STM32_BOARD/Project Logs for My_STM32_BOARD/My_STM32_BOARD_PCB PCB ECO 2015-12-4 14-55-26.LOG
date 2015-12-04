@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R3 Old Footprint=6-0805_N New Footprint=RES_0805
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

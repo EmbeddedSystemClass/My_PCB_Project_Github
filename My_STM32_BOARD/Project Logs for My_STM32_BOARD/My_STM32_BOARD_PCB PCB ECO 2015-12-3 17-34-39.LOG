@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=USB_DM Pin=R2-2
+Removed Pin From Net: NetName=USB_DP Pin=R3-2
+Added Pin To Net: NetName=USB_DP Pin=J1-43
+Added Pin To Net: NetName=USB_DM Pin=J1-45
+Added Pin To Net: NetName=A_SCL1 Pin=J3-1
+Added Pin To Net: NetName=A_SDA1 Pin=J3-2
+Added Pin To Net: NetName=UART1_TX Pin=U1-1
+Added Pin To Net: NetName=UART1_RX Pin=U1-5
+Added Pin To Net: NetName=UART1_TX Pin=U3-25
+Added Pin To Net: NetName=UART1_RX Pin=U3-26

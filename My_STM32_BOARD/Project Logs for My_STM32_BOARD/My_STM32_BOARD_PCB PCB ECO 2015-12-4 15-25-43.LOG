@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=VCC5V Pin=C2-2
+Removed Pin From Net: NetName=AGND Pin=C7-1
+Removed Pin From Net: NetName=VCC5V Pin=C7-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C20 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C21 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C22 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C23 Old DesignItemId=Cap New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap New DesignItemId=Cap_Tan_2917
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Semi New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap Semi New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Cap Semi New DesignItemId=Cap_0402
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap Semi New DesignItemId=Cap_0402
+Change Component Footprint: Designator=C1 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C2 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C3 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C4 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C5 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C6 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C10 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C11 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C12 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C13 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C20 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C21 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C22 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C23 Old Footprint=0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C7 Old Footprint=2029 New Footprint=CAP_TAN_D2917
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C6 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C20 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C21 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C22 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C23 Old Comment=Cap New Comment=Cap_0402
+Change Component Comment : Designator=C7 Old Comment=Cap New Comment=Cap_Tan_2917
+Change Component Comment : Designator=C10 Old Comment=Cap Semi New Comment=Cap_0402
+Change Component Comment : Designator=C11 Old Comment=Cap Semi New Comment=Cap_0402
+Change Component Comment : Designator=C12 Old Comment=Cap Semi New Comment=Cap_0402
+Change Component Comment : Designator=C13 Old Comment=Cap Semi New Comment=Cap_0402
+Added Pin To Net: NetName=VCC5V Pin=C2-1
+Added Pin To Net: NetName=VCC5V Pin=C7-1
+Added Pin To Net: NetName=AGND Pin=C7-2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Net: Name=NetC2_2
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

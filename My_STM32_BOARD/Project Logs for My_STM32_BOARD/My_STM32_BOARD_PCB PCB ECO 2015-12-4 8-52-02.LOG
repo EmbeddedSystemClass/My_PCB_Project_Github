@@ -1,0 +1,25 @@
+Change Component Description : Designator=U2 Old Description=LM317 电源? New Description=LM317 电源芯片
+Change Component Description : Designator=S1 Old Description=四脚? New Description=四脚按键
+Change Component Description : Designator=S2 Old Description=四脚? New Description=四脚按键
+Change Component Description : Designator=S3 Old Description=四脚? New Description=四脚按键
+Change Component Description : Designator=S4 Old Description=四脚? New Description=四脚按键
+Added Component: Designator=C20(0402)
+Added Component: Designator=C21(0402)
+Added Component: Designator=C22(0402)
+Added Component: Designator=C23(0402)
+Added Pin To Net: NetName=AGND Pin=C20-1
+Added Pin To Net: NetName=VCC3V3 Pin=C20-2
+Added Pin To Net: NetName=AGND Pin=C21-1
+Added Pin To Net: NetName=VCC3V3 Pin=C21-2
+Added Pin To Net: NetName=AGND Pin=C22-1
+Added Pin To Net: NetName=VCC3V3 Pin=C22-2
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=VCC3V3 Pin=C23-2
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C20 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C21 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C22 Cap
+Added Member To Class: ClassName=U_My_STM32_BOARD_MCU_SCH Member=Component C23 Cap
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

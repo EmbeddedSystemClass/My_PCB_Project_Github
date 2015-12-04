@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=UART0_TX Pin=J7-5
+Removed Pin From Net: NetName=UART0_RX Pin=J7-6
+Removed Pin From Net: NetName=UART0_TX Pin=U1-1
+Removed Pin From Net: NetName=UART0_RX Pin=U1-5
+Removed Pin From Net: NetName=UART0_TX Pin=U3-25
+Removed Pin From Net: NetName=UART0_RX Pin=U3-26
+Added Pin To Net: NetName=UART1_TX Pin=J7-5
+Added Pin To Net: NetName=UART1_RX Pin=J7-6
+Added Pin To Net: NetName=UART1_TX Pin=U1-1
+Added Pin To Net: NetName=UART1_RX Pin=U1-5
+Added Pin To Net: NetName=UART1_TX Pin=U3-25
+Added Pin To Net: NetName=UART1_RX Pin=U3-26
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

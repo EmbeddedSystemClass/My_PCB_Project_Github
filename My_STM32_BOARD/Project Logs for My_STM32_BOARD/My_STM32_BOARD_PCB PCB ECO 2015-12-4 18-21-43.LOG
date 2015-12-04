@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=* NewDesignator=U10
+Added Component: Designator=J10(RJ45-HR9111105A)
+Added Member To Class: ClassName=U_My_STM32_BOARD_FUNCTION_SCH Member=Component J10 HR9111105A
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

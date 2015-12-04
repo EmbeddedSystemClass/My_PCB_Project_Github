@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap_Tan_2917 New DesignItemId=Cap_Tan_1206
+Change Component Comment : Designator=C7 Old Comment=Cap_Tan_2917 New Comment=Cap_Tan_1206
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH

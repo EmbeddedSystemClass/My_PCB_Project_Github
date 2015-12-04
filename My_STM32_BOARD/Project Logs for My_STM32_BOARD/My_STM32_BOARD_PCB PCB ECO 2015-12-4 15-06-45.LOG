@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=U10 NewDesignator=*
+Change Component Description : Designator=U2 Old Description=LM317 电源? New Description=LM317 电源芯片
+Change Component Description : Designator=S1 Old Description=四脚? New Description=四脚按键
+Change Component Description : Designator=S2 Old Description=四脚? New Description=四脚按键
+Change Component Description : Designator=S3 Old Description=四脚? New Description=四脚按键
+Change Component Description : Designator=S4 Old Description=四脚? New Description=四脚按键
+Added Room: Name=U_My_STM32_BOARD_ARDUINO_SCH
+Added Room: Name=U_My_STM32_BOARD_FUNCTION_SCH
+Added Room: Name=U_My_STM32_BOARD_HEADER_SCH
+Added Room: Name=U_My_STM32_BOARD_MCU_SCH
