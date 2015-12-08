@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=E_RST Pin=R50-1
+Removed Pin From Net: NetName=VCC3V3 Pin=R50-2
+Change Component Description : Designator=U2 Old Description=3.3V稳? New Description=3.3V稳压芯片
+Change Component Description : Designator=U3 Old Description=5V稳? New Description=5V稳压芯片
+Change Component Description : Designator=P6 Old Description=LCD12864框? New Description=LCD12864框架
+Change Component Description : Designator=CON1 Old Description=LCD接? New Description=LCD接插件
+Change Component Description : Designator=Q6 Old Description=NPN三? New Description=NPN三极管
+Change Component Description : Designator=D01 Old Description=二? New Description=二极管
+Change Component Description : Designator=D02 Old Description=二? New Description=二极管
+Change Component Description : Designator=D3 Old Description=二? New Description=二极管
+Change Component Description : Designator=D4 Old Description=二? New Description=二极管
+Change Component Description : Designator=LED1 Old Description=发? New Description=发光二极管
+Change Component Description : Designator=LED2 Old Description=发? New Description=发光二极管
+Change Component Description : Designator=LED3 Old Description=发? New Description=发光二极管
+Change Component Description : Designator=Y1 Old Description=圆? New Description=圆柱晶振
+Change Component Description : Designator=BT1 Old Description=备? New Description=备份电池
+Change Component Description : Designator=S1 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S2 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S3 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S4 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S5 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S6 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S7 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S8 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S9 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S10 Old Description=微? New Description=微动开关
+Change Component Description : Designator=S11 Old Description=微? New Description=微动开关
+Change Component Description : Designator=P10 Old Description=接? New Description=接插件
+Change Component Description : Designator=C1 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C1_lcd Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C2_lcd Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C4 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C5 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C7 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C8 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C9 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C10 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C11 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C12 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C13 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C14 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C15 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C16 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C18 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C19 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C20 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C21 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C23 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=C24 Old Description=无? New Description=无极性电容
+Change Component Description : Designator=Y2 Old Description=晶? New Description=晶振
+Change Component Description : Designator=U5 Old Description=温? New Description=温度传感器
+Change Component Description : Designator=C2 Old Description=电? New Description=电解电容
+Change Component Description : Designator=U4 Old Description=红? New Description=红外接收器
+Change Component Description : Designator=R1 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R2 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R4 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R7 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R20 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R23 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R24 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R25 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R26 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R27 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R28 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R29 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R50 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R51 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=R52 Old Description=贴? New Description=贴片电阻
+Change Component Description : Designator=C3 Old Description=钽? New Description=钽电容
+Change Component Description : Designator=C6 Old Description=钽? New Description=钽电容
+Change Component Description : Designator=C17 Old Description=钽? New Description=钽电容
+Change Component Description : Designator=C22 Old Description=钽? New Description=钽电容
+Added Component: Designator=P11(HDR3X1_A)
+Added Component: Designator=P12(HDR3X1_A)
+Added Component: Designator=R51(0805-1)
+Added Component: Designator=R52(0805-1)
+Added Component: Designator=R53(0805-1)
+Added Component: Designator=R54(0805-1)
+Added Component: Designator=R55(0805-1)
+Added Component: Designator=S12(SW_PB4_B1)
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VCC3V3 Pin=C23-2
+Added Pin To Net: NetName=VCC3V3 Pin=R50-1
+Added Pin To Net: NetName=E_RST Pin=R50-2
+Added Pin To Net: NetName=VCC3V3 Pin=R51-2
+Added Pin To Net: NetName=VCC3V3 Pin=R52-2
+Added Pin To Net: NetName=VCC3V3 Pin=R53-2
+Added Pin To Net: NetName=GND Pin=R54-2
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=GND Pin=S12-1
+Added Pin To Net: NetName=GND Pin=S12-4
+Added Pin To Net: NetName=BOOT Pin=P12-2
+Added Pin To Net: NetName=BOOT Pin=U10-36
+Added Net: Name=BOOT
+Added Pin To Net: NetName=E_LINK Pin=R51-1
+Added Pin To Net: NetName=E_LINK Pin=S12-2
+Added Pin To Net: NetName=E_LINK Pin=S12-3
+Added Pin To Net: NetName=E_LINK Pin=U10-9
+Added Net: Name=E_LINK
+Added Pin To Net: NetName=NetC26_2 Pin=P11-1
+Added Pin To Net: NetName=NetC26_2 Pin=R52-1
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC27_2 Pin=P12-1
+Added Pin To Net: NetName=NetC27_2 Pin=R53-1
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetP11_3 Pin=P11-3
+Added Pin To Net: NetName=NetP11_3 Pin=R54-1
+Added Net: Name=NetP11_3
+Added Pin To Net: NetName=NetP12_3 Pin=P12-3
+Added Pin To Net: NetName=NetP12_3 Pin=R55-1
+Added Net: Name=NetP12_3
+Added Pin To Net: NetName=STATUS Pin=P11-2
+Added Pin To Net: NetName=STATUS Pin=U10-37
+Added Net: Name=STATUS
+Added Class: Name=U_Intelligent_Agriculture_Wifi
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

@@ -1,0 +1,12 @@
+Added Component: Designator=C25(C-RAD-0805)
+Added Component: Designator=C26(C-RAD-0805)
+Added Component: Designator=C27(C-RAD-0805)
+Added Pin To Net: NetName=E_LINK Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component C25 Cap
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component C26 Cap
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component C27 Cap

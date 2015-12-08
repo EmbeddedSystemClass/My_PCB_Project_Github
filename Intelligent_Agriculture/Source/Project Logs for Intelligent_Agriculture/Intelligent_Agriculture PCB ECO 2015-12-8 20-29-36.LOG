@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=R51 NewDesignator=R53
+Change Component Designator: OldDesignator=R52 NewDesignator=R54
+Change Component Designator: OldDesignator=R53 NewDesignator=R55
+Change Component Designator: OldDesignator=R54 NewDesignator=R56
+Change Component Designator: OldDesignator=R55 NewDesignator=R57
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R56 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R57 Res1

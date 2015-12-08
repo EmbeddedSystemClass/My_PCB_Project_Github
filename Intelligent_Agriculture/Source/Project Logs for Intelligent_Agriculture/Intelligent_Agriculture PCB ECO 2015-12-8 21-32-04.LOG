@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=E_RST Pin=S11-3
+Removed Pin From Net: NetName=GND Pin=S11-4
+Removed Pin From Net: NetName=E_LINK Pin=S12-3
+Removed Pin From Net: NetName=GND Pin=S12-4
+Change Component DesignItemId : Designator=S11 Old DesignItemId=SW- New DesignItemId=SW-PB2
+Change Component DesignItemId : Designator=S12 Old DesignItemId=SW- New DesignItemId=SW-PB2
+Change Component Comment : Designator=S11 Old Comment=SW-PB4 New Comment=SW-PB2
+Change Component Comment : Designator=S12 Old Comment=SW-PB4 New Comment=SW-PB2
+Change Component Library : Designator=S11 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Change Component Library : Designator=S12 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi
