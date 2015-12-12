@@ -1,0 +1,61 @@
+Change Component DesignItemId : Designator=U0 Old DesignItemId=ACDC_12 New DesignItemId=ACDC_
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Ca New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=D1 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D2 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D3 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D4 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=F0 Old DesignItemId=Fu New DesignItemId=Fuse 2
+Change Component DesignItemId : Designator=DG0 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=DG1 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=DG2 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=DG3 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=DG4 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=SW0 Old DesignItemId=Head New DesignItemId=He
+Change Component DesignItemId : Designator=R8 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R11 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R14 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R15 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R17 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Res1 New DesignItemId=R
+Change Component DesignItemId : Designator=U1 Old DesignItemId=RL-G3MC- New DesignItemId=RL-G3MC-202P-DC12
+Change Component DesignItemId : Designator=U2 Old DesignItemId=RL-G3MC- New DesignItemId=RL-G3MC-202P-DC12
+Change Component DesignItemId : Designator=D0 Old DesignItemId=T New DesignItemId=TVS
+Change Component Footprint: Designator=R1 Old Footprint=14D471K New Footprint=0805-1
+Change Component Footprint: Designator=F0 Old Footprint=FUSE T1A250V New Footprint=FUSE-20*5*2A
+Change Component Footprint: Designator=R0 Old Footprint=NTC 5D-9 New Footprint=0805-1
+Change Component Footprint: Designator=U1 Old Footprint=RL-G3MC-202P-DC5 New Footprint=RL-G3MC-202P-DC12
+Change Component Footprint: Designator=U2 Old Footprint=RL-G3MC-202P-DC5 New Footprint=RL-G3MC-202P-DC12
+Change Component Description : Designator=Q1 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=Q2 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=Q3 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=Q4 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=C2 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=C1 Old Description=电解? New Description=电解电容
+Change Component Description : Designator=R8 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R9 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R11 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R12 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R14 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R15 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R17 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R18 Old Description=贴片? New Description=贴片电阻
+Added Component: Designator=U3(RL-G3MC-202P-DC12)
+Added Component: Designator=U4(RL-G3MC-202P-DC12)
+Added Pin To Net: NetName=L220V Pin=U3-1
+Added Pin To Net: NetName=NetDG3_2 Pin=U3-2
+Added Pin To Net: NetName=VCC12V Pin=U3-3
+Added Pin To Net: NetName=NetD3_1 Pin=U3-4
+Added Pin To Net: NetName=L220V Pin=U4-1
+Added Pin To Net: NetName=NetDG4_2 Pin=U4-2
+Added Pin To Net: NetName=VCC12V Pin=U4-3
+Added Pin To Net: NetName=NetD4_1 Pin=U4-4
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U3 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U4 RL-G3MC-202P-DC12

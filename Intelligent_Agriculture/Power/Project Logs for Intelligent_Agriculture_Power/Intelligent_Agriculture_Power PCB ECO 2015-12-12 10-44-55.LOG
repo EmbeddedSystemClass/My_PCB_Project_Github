@@ -1,0 +1,12 @@
+Added Component: Designator=U1(RL-G3MC-202P-DC5)
+Added Component: Designator=U2(RL-G3MC-202P-DC5)
+Added Pin To Net: NetName=VCC12V Pin=U1-1
+Added Pin To Net: NetName=NetDG1_1 Pin=U1-2
+Added Pin To Net: NetName=VCC12V Pin=U1-3
+Added Pin To Net: NetName=NetD1_1 Pin=U1-4
+Added Pin To Net: NetName=VCC12V Pin=U2-1
+Added Pin To Net: NetName=NetDG2_1 Pin=U2-2
+Added Pin To Net: NetName=VCC12V Pin=U2-3
+Added Pin To Net: NetName=NetD2_1 Pin=U2-4
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U1 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U2 RL-G3MC-202P-DC12

@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=DG0 Old DesignItemId=He New DesignItemId=Header 3
+Change Component Footprint: Designator=DG0 Old Footprint=DG301-2P New Footprint=DG301-3P
+Change Component Comment : Designator=DG0 Old Comment=Header 2 New Comment=Header 3
+Added Pin To Net: NetName=NetDG0_3 Pin=DG0-3
+Added Pin To Net: NetName=NetDG0_3 Pin=U0-1
+Added Net: Name=NetDG0_3
+Added Room: Name=Intelligent_Agriculture_Power

@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=BCP68 New DesignItemId=B
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=BCP68 New DesignItemId=B
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=BCP68 New DesignItemId=B
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=BCP68 New DesignItemId=B
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Pol1 New DesignItemId=Ca
+Change Component DesignItemId : Designator=F0 Old DesignItemId=Fuse 2 New DesignItemId=Fu
+Change Component DesignItemId : Designator=SW0 Old DesignItemId=Header 2 New DesignItemId=Head
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 4 New DesignItemId=Head
+Change Component DesignItemId : Designator=U1 Old DesignItemId=RL-G3MC-202P-DC5 New DesignItemId=RL-G3MC-
+Change Component DesignItemId : Designator=U2 Old DesignItemId=RL-G3MC-202P-DC5 New DesignItemId=RL-G3MC-
+Change Component DesignItemId : Designator=U3 Old DesignItemId=RL-G3MC-202P-DC5 New DesignItemId=RL-G3MC-
+Change Component DesignItemId : Designator=U4 Old DesignItemId=RL-G3MC-202P-DC5 New DesignItemId=RL-G3MC-
+Change Component DesignItemId : Designator=D0 Old DesignItemId=TVS New DesignItemId=T
+Change Component Description : Designator=Q1 Old Description=NPN三? New Description=NPN三极管
+Change Component Description : Designator=Q2 Old Description=NPN三? New Description=NPN三极管
+Change Component Description : Designator=Q3 Old Description=NPN三? New Description=NPN三极管
+Change Component Description : Designator=Q4 Old Description=NPN三? New Description=NPN三极管
+Change Component Description : Designator=C2 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=C1 Old Description=电解 New Description=电解电容
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U1 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U2 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U3 RL-G3MC-202P-DC12
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U4 RL-G3MC-202P-DC12
+Added Room: Name=Intelligent_Agriculture_Power

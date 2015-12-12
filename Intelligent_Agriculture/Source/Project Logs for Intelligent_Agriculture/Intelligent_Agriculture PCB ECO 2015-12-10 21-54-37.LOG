@@ -1,0 +1,27 @@
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component C1_lcd Cap
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component C2_lcd Cap
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component C22 Cap Pol
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component C23 Cap
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component D01 Diode
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component D02 Diode
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component JMP0 Header 2
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component P0 Header 2
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component P10 Header 5
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component Q6 S8050
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R20 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R23 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R24 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R25 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R26 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R27 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R28 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture Member=Component R29 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R50 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R51 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R52 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R53 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R54 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R55 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component U10 EMW3165
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi

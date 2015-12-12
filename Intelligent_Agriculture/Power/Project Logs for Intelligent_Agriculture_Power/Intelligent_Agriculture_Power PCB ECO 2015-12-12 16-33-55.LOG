@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=D0 Old DesignItemId=TVS New DesignItemId=Diode
+Change Component Comment : Designator=D0 Old Comment=TVS New Comment=Diode
+Change Component Description : Designator=D0 Old Description=TVS保护 New Description=二极管
+Change Component Library : Designator=D0 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Added Room: Name=Intelligent_Agriculture_Power

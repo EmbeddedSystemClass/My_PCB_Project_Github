@@ -1,0 +1,34 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Intelligent_Agriculture.PrjPcb|ReportField=ProjectFullPath~E:\My_GIT\My_PCB_Project_Github\Intelligent_Agriculture\Source\Intelligent_Agriculture.PrjPcb|ReportField=Title~Copy of Copy of Copy of Bill of Materials For Schematic Document [Intelligent_Agriculture.SchDoc]|ReportField=TotalQuantity~69|ReportField=ReportTime~22:44:05|ReportField=ReportDate~2015/12/10|ReportField=ReportDateTime~2015/12/10 22:44:05|ReportField=OutputName~Copy of Copy of Copy of Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/12/10|ReportField=CurrentTime~22:44:03|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\My_GIT\My_PCB_Project_Github\Intelligent_Agriculture\Source\Intelligent_Agriculture.SchDoc|ReportField=DocumentName~Intelligent_Agriculture.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/12/10|ReportField=Organization~|ReportField=ProjectName~Intelligent_Agriculture.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Intelligent_Agriculture.SchDoc|ReportField=DataSourceFullPath~E:\My_GIT\My_PCB_Project_Github\Intelligent_Agriculture\Source\Intelligent_Agriculture.SchDoc
+Battery|备份电池|BT1|CR1220|Batt|1
+Cap|无极性电容|C1, C1_lcd, C2_lcd, C4, C5, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C18, C19, C20, C21|C-RAD-0805|Cap|19
+Cap Pol1|电解电容|C2|C-RB-2.54|Cap P|1
+Cap Pol|钽电容|C3, C6, C17|CAP-3528|Cap P|3
+LCD_CON20|LCD接插件|CON1|FPC0.5-20P-A|LCD_CON|1
+Diode|二极管|D01, D02, D3, D4|DIODE-1206|Dio|4
+Header 2|接插件|JMP0|HDR2X1_A|Header|1
+LED0|发光二极管|LED1|LED_A2|LED0|1
+Header 2|接插件|P0, P3, P4, P5|HDR2X1_B1|Header|4
+Header 5|接插件|P1|HDR5_A1|Header|1
+Header 3|接插件|P2|HDR3X1_A|Header|1
+LCDLEDAK|LCD12864框架|P6|LCD_JLX12864G-1504|LCDLEDA|1
+Header 4|接插件|P7|HDR4X1_B1|Header|1
+S8050|NPN三极管|Q6|SOT-23|BCP|1
+Res1|贴片电阻|R1, R2, R4, R7, R20, R23, R24, R25, R26, R27, R28|0805-1|R|11
+Res1|贴片电阻|R29|1206|R|1
+SW-PB4|微动开关|S1|SW_PB4_B1|SW-|1
+SW-LEFT|微动开关|S2|SW_PB4_B1|SW-|1
+SW-UP|微动开关|S3|SW_PB4_B1|SW-|1
+SW-RIGHT|微动开关|S4|SW_PB4_B1|SW-|1
+SW-WAIT|微动开关|S5|SW_PB4_B1|SW-|1
+SW-OK|微动开关|S6|SW_PB4_B1|SW-|1
+SW-DOWN|微动开关|S7|SW_PB4_B1|SW-|1
+SW-SET|微动开关|S8|SW_PB4_B1|SW-|1
+SW-ESC|微动开关|S9|SW_PB4_B1|SW-|1
+SW-SMART|微动开关|S10|SW_PB4_B1|SW-|1
+STM32F103C|STM32单片机48|U1|LQFP-48_M|STM32F|1
+AMS1117-3.3|3.3V稳压芯片|U2|SOT-223|SPX1117M3-|1
+LM78M05|5V稳压芯片|U3|TO-252|LM78|1
+HS0038B|红外接收器|U4|HS0038B|HS0|1
+DS18B20|温度传感器|U5|HDR3X1_B1|DS1|1
+XTAL_SM|圆柱晶振|Y1|X-TC15_B|XTAL|1
+XTAL|晶振|Y2|X-HC49U|XTA|1

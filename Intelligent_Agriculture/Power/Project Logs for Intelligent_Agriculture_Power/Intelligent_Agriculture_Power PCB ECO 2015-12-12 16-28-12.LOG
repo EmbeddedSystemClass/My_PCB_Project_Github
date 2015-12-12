@@ -1,0 +1,6 @@
+Change Component Library : Designator=C2 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Change Component Library : Designator=D1 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Change Component Library : Designator=D2 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Change Component Library : Designator=D3 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Change Component Library : Designator=D4 Old Library=fszhang.SchLib New Library=Intelligent_Agriculture_Lib.IntLib
+Added Room: Name=Intelligent_Agriculture_Power

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=OSC32_IN Pin=Y1-1
+Added Pin To Net: NetName=OSC32_OUT Pin=Y1-2
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi
