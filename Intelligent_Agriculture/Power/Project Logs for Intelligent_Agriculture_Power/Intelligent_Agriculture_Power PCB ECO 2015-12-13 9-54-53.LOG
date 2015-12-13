@@ -1,0 +1,64 @@
+Change Component DesignItemId : Designator=U0 Old DesignItemId=A New DesignItemId=ACDC_12V10W
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=B New DesignItemId=BCP68
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Ca New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=D0 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D2 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D3 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=D4 Old DesignItemId=D New DesignItemId=Diode
+Change Component DesignItemId : Designator=F0 Old DesignItemId=Fu New DesignItemId=Fuse 2
+Change Component DesignItemId : Designator=DG0 Old DesignItemId=Head New DesignItemId=Header 4
+Change Component DesignItemId : Designator=DG1 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=DG2 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=DG3 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=DG4 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=SW0 Old DesignItemId=Header New DesignItemId=Head
+Change Component DesignItemId : Designator=R8 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R9 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R11 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R12 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R14 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R15 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R17 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=R18 Old DesignItemId=R New DesignItemId=Res1
+Change Component DesignItemId : Designator=U1 Old DesignItemId=RL-G3MC-2 New DesignItemId=RL-G3
+Change Component DesignItemId : Designator=U2 Old DesignItemId=RL-G3MC-2 New DesignItemId=RL-G3
+Change Component DesignItemId : Designator=U3 Old DesignItemId=RL-G3MC-2 New DesignItemId=RL-G3
+Change Component DesignItemId : Designator=U4 Old DesignItemId=RL-G3MC-2 New DesignItemId=RL-G3
+Change Component Footprint: Designator=R1 Old Footprint=14D471K New Footprint=0805-1
+Change Component Footprint: Designator=DG0 Old Footprint=DG301-3P New Footprint=DG301-4P
+Change Component Footprint: Designator=R0 Old Footprint=NTC 5D-9 New Footprint=0805-1
+Change Component Comment : Designator=DG0 Old Comment=Header 3 New Comment=Header 4
+Change Component Description : Designator=Q1 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=Q2 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=Q3 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=Q4 Old Description=NPN三极 New Description=NPN三极管
+Change Component Description : Designator=D0 Old Description=二极 New Description=二极管
+Change Component Description : Designator=D1 Old Description=二极 New Description=二极管
+Change Component Description : Designator=D2 Old Description=二极 New Description=二极管
+Change Component Description : Designator=D3 Old Description=二极 New Description=二极管
+Change Component Description : Designator=D4 Old Description=二极 New Description=二极管
+Change Component Description : Designator=DG1 Old Description=接插 New Description=接插件
+Change Component Description : Designator=DG2 Old Description=接插 New Description=接插件
+Change Component Description : Designator=DG3 Old Description=接插 New Description=接插件
+Change Component Description : Designator=DG4 Old Description=接插 New Description=接插件
+Change Component Description : Designator=SW0 Old Description=接插 New Description=接插件
+Change Component Description : Designator=C2 Old Description=无极性 New Description=无极性电容
+Change Component Description : Designator=C1 Old Description=电解? New Description=电解电容
+Change Component Description : Designator=R8 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R9 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R11 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R12 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R14 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R15 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R17 Old Description=贴片? New Description=贴片电阻
+Change Component Description : Designator=R18 Old Description=贴片? New Description=贴片电阻
+Added Pin To Net: NetName=NetDG0_3 Pin=DG0-3
+Added Pin To Net: NetName=NetDG0_3 Pin=DG0-4
+Added Net: Name=NetDG0_3
+Added Room: Name=Intelligent_Agriculture_Power

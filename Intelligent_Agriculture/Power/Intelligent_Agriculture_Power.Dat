@@ -1,0 +1,16 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Intelligent_Agriculture_Power.PrjPcb|ReportField=ProjectFullPath~E:\My_GIT\My_PCB_Project_Github\Intelligent_Agriculture\Power\Intelligent_Agriculture_Power.PrjPcb|ReportField=Title~Bill of Materials For Project [Intelligent_Agriculture_Power.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~21:39:44|ReportField=ReportDate~2015/12/13|ReportField=ReportDateTime~2015/12/13 21:39:44|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/12/13|ReportField=CurrentTime~21:39:42|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\My_GIT\My_PCB_Project_Github\Intelligent_Agriculture\Power\Intelligent_Agriculture_Power.SchDoc|ReportField=DocumentName~Intelligent_Agriculture_Power.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/12/13|ReportField=Organization~|ReportField=ProjectName~Intelligent_Agriculture_Power.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Intelligent_Agriculture_Power.PrjPcb|ReportField=DataSourceFullPath~E:\My_GIT\My_PCB_Project_Github\Intelligent_Agriculture\Power\Intelligent_Agriculture_Power.PrjPcb
+Cap Pol1|电解电容|C1|C-RB-2.54|Ca|1
+Cap|无极性电容|C2|C-RAD-0805|Cap|1
+Diode|二极管|D0, D1, D2, D3, D4|DIODE-1206|D|5
+Header 4|接插件|DG0|DG301-4P|Head|1
+Header 2|接插件|DG1, DG2, DG3, DG4, SW0|HDR2X1_C|Header 2|5
+Fuse|保险丝|F0|1812|Fu|1
+Header 2|接插件|P1|HDR2X1_B1|Header 2|1
+Header 4|接插件|P2|HDR4X1_B1|Header 4|1
+S8050|NPN三极管|Q1, Q2, Q3, Q4|SOT-23|B|4
+NTC|热敏电阻|R0|0805-1|NTC|1
+MOV|压敏电阻|R1|0805-1|MOV|1
+Res1|贴片电阻|R8, R9, R11, R12, R14, R15, R17, R18|0805-1|Res1|8
+ACDC_12V10W|ACDC模块_220VAC转12V|U0|ACDC_XTQ10B-12W|ACDC_12|1
+RL-GJ-5FA-L|3-38V DC-DC固态继电?|U1, U2|RL-GJ-5-L|RL-GJ-5|2
+RL-GJ-5-L|3-38V DC-AC固态继电?|U3, U4|RL-GJ-5-L|RL-GJ|2

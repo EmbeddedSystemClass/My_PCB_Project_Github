@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R13 Res1
+Added Member To Class: ClassName=U_Intelligent_Agriculture_Wifi Member=Component R14 Res1
+Added Room: Name=U_Intelligent_Agriculture
+Added Room: Name=U_Intelligent_Agriculture_Wifi
